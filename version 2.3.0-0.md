@@ -1,0 +1,1 @@
+This collection of settings was built alongside minecraft-roguelike version `2.3.0` and it is the `0`th release.

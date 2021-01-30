@@ -1,0 +1,10 @@
+{
+  "name": "dungeon:generic",
+  "exclusive": false,
+  "inherit": [
+    "layout:size_medium",
+    "rooms:generic",
+    "segments:generic",
+    "loot:custom"
+  ]
+}
