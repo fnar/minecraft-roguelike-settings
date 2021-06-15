@@ -1,0 +1,8 @@
+{
+  "name": "rlcraft:swamp_dungeon",
+  "exclusive": true,
+  "inherit": [
+    "builtin:swamp",
+    "rlcraft:loot"
+  ]
+}

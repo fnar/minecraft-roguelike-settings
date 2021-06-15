@@ -1,0 +1,8 @@
+{
+  "name": "rlcraft:forest_dungeon",
+  "exclusive": true,
+  "inherit": [
+    "builtin:forest",
+    "rlcraft:loot"
+  ]
+}

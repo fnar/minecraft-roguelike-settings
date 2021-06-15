@@ -1,0 +1,8 @@
+{
+  "name": "rlcraft:grassland_dungeon",
+  "exclusive": true,
+  "inherit": [
+    "builtin:grassland",
+    "rlcraft:loot"
+  ]
+}

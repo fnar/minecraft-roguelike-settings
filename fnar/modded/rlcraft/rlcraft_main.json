@@ -1,0 +1,7 @@
+{
+  "name": "rlcraft:main",
+  "exclusive": false,
+  "inherit": [
+    "rlcraft:loot"
+  ]
+}
