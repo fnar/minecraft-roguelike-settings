@@ -13,12 +13,12 @@
     "qualitytools",
     "randomthings",
     "scalinghealth",
-    "xreliquary",
-    "xpbook",
-    "xat",
-    "wearablebackpacks",
+    "solcarrot",
     "toolbelt",
-    "solcarrot"
+    "wearablebackpacks",
+    "xreliquary",
+    "xat",
+    "xpbook"
   ],
   "lootRules": [
     {

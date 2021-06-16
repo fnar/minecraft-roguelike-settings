@@ -1,5 +1,6 @@
 {
   "name": "main:rad",
+  "requires": ["ebwizardry"],
   "inherit": [
     "loot:rad"
   ]
