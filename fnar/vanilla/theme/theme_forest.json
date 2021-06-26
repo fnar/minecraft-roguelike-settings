@@ -283,38 +283,42 @@
       },
       "secondary" : {
         "lightblock": {"type":  "METABLOCK", "data":  {"name":  "sea_lantern"}},
-        "walls" : {"type" : "WEIGHTED", "data" : [
-          {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 0}, "weight" : 2},
-          {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2},
+        "walls" : {
+          "type" : "WEIGHTED",
+          "data" : [
+            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 0}, "weight" : 2},
+            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2},
 
-          {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight" : 3},
-          {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}, "weight" : 3},
-          {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight" : 1},
+            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight" : 3},
+            {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}, "weight" : 3},
+            {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight" : 1},
 
-          {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 1}, "weight" : 5},
-          {"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight" : 5},
-          {"type" : "METABLOCK", "data" : {"name" : "leaves"}, "weight" : 25},
+            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 1}, "weight" : 5},
+            {"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight" : 5},
+            {"type" : "METABLOCK", "data" : {"name" : "leaves"}, "weight" : 25},
 
-          {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight" : 1}
-        ]
+            {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight" : 1}
+          ]
         },
         "stair" : {"type" : "METABLOCK", "data" : {"name" : "dark_oak_stairs"}},
         "pillar" : {"type" : "METABLOCK", "data" : {"name" : "log", "meta" : 1}},
         "door": {"name": "dark_oak_door"},
-        "floor" : {"type" : "WEIGHTED", "data" : [
-          {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 0}, "weight" : 2},
-          {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2},
-          {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight" : 5},
-          {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}, "weight" : 2},
-          {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight" : 2},
+        "floor" : {
+          "type" : "WEIGHTED",
+          "data" : [
+            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 0}, "weight" : 2},
+            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2},
+            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight" : 5},
+            {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}, "weight" : 2},
+            {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight" : 2},
 
-          {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 1}, "weight" : 5},
-          {"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight" : 10},
-          {"type" : "METABLOCK", "data" : {"name" : "leaves"}, "weight" : 15},
-          {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight" : 75},
+            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 1}, "weight" : 5},
+            {"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight" : 10},
+            {"type" : "METABLOCK", "data" : {"name" : "leaves"}, "weight" : 15},
+            {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight" : 75},
 
-          {"type" : "METABLOCK", "data" : {"name" : "dirt"}, "weight" : 5}
-        ]
+            {"type" : "METABLOCK", "data" : {"name" : "dirt"}, "weight" : 5}
+          ]
         }
       }
     }

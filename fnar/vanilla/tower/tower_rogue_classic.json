@@ -4,6 +4,7 @@
   "tower": {
     "type": "ROGUE",
     "theme": {
+      "base": "OAK",
       "primary": {
         "walls": {
           "type": "WEIGHTED",
