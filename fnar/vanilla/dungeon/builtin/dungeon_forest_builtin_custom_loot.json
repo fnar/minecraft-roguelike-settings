@@ -2,7 +2,7 @@
   "name" : "dungeon:forest_builtin_custom_loot",
   "exclusive": true,
   "inherit" : [
-    "dungeon:forest_builtin_no_loot",
+    "builtin:dungeon_forest_no_loot",
     "loot:custom"
   ]
 }

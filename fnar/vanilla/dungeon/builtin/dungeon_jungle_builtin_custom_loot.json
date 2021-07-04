@@ -2,7 +2,7 @@
   "name" : "dungeon:jungle_builtin_custom_loot",
   "exclusive": true,
   "inherit" : [
-    "dungeon:jungle_builtin_no_loot",
+    "builtin:dungeon_jungle_no_loot",
     "loot:custom"
   ]
 }

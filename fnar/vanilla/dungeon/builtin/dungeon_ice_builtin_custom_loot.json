@@ -2,7 +2,7 @@
   "name" : "dungeon:ice_builtin_custom_loot",
   "exclusive": true,
   "inherit" : [
-    "dungeon:ice_builtin_no_loot",
+    "builtin:dungeon_ice_no_loot",
     "loot:custom"
   ]
 }

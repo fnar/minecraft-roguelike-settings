@@ -2,7 +2,7 @@
   "name" : "dungeon:mesa_builtin_custom_loot",
   "exclusive": true,
   "inherit" : [
-    "dungeon:mesa_builtin_no_loot",
+    "builtin:dungeon_mesa_no_loot",
     "loot:custom"
   ]
 }

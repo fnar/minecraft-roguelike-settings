@@ -2,7 +2,7 @@
   "name" : "dungeon:desert_builtin_custom_loot",
   "exclusive": true,
   "inherit" : [
-    "dungeon:desert_builtin_no_loot",
+    "builtin:dungeon_desert_no_loot",
     "loot:custom"
   ]
 }

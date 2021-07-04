@@ -2,7 +2,7 @@
   "name" : "dungeon:grassland_builtin_custom_loot",
   "exclusive": true,
   "inherit" : [
-    "dungeon:grassland_builtin_no_loot",
+    "builtin:dungeon_grassland_no_loot",
     "loot:custom"
   ]
 }
