@@ -41,12 +41,52 @@
       "level": [1, 2, 3, 4],
       "type": "TOOLS",
       "each": false,
-      "quantity": 2,
+      "quantity": 3,
       "loot": [
-        {"data": {"type": "tool", "level": 0}, "weight": 16},
+        {"data": {"type": "tool", "level": 0}, "weight": 8},
         {"data": {"type": "tool", "level": 1}, "weight": 8},
         {"data": {"type": "tool", "level": 2}, "weight": 4},
         {"data": {"type": "tool", "level": 3}, "weight": 2},
+        {"data": {"type": "tool", "level": 4}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [0], "type": "TOOLS", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "tool", "level": 0}, "weight": 3},
+        {"data": {"type": "tool", "level": 1}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [1], "type": "TOOLS", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "tool", "level": 0}, "weight": 3},
+        {"data": {"type": "tool", "level": 1}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [2], "type": "TOOLS", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "tool", "level": 1}, "weight": 3},
+        {"data": {"type": "tool", "level": 2}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [3], "type": "TOOLS", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "tool", "level": 2}, "weight": 3},
+        {"data": {"type": "tool", "level": 3}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [4], "type": "TOOLS", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "tool", "level": 3}, "weight": 3},
         {"data": {"type": "tool", "level": 4}, "weight": 1}
       ]
     }

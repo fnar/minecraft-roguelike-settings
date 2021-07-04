@@ -23,14 +23,55 @@
       "level": [1, 2, 3, 4],
       "type": "ARMOUR",
       "each": false,
-      "quantity": 2,
+      "quantity": 3,
       "loot": [
-        {"data": {"type": "armour", "level": 0}, "weight": 16},
+        {"data": {"type": "armour", "level": 0}, "weight": 8},
         {"data": {"type": "armour", "level": 1}, "weight": 8},
         {"data": {"type": "armour", "level": 2}, "weight": 4},
         {"data": {"type": "armour", "level": 3}, "weight": 2},
         {"data": {"type": "armour", "level": 4}, "weight": 1}
       ]
+    },
+
+    {
+      "level": [0], "type": "ARMOUR", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "armour", "level": 0}, "weight": 3},
+        {"data": {"type": "armour", "level": 1}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [1], "type": "ARMOUR", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "armour", "level": 0}, "weight": 3},
+        {"data": {"type": "armour", "level": 1}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [2], "type": "ARMOUR", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "armour", "level": 1}, "weight": 3},
+        {"data": {"type": "armour", "level": 2}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [3], "type": "ARMOUR", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "armour", "level": 2}, "weight": 3},
+        {"data": {"type": "armour", "level": 3}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [4], "type": "ARMOUR", "each": true, "quantity": 1,
+      "loot": [
+        {"data": {"type": "armour", "level": 3}, "weight": 3},
+        {"data": {"type": "armour", "level": 4}, "weight": 1}
+      ]
     }
+
   ]
 }
