@@ -8,6 +8,7 @@
 
     {"level": 0, "frequency": "single", "type": "OBSIDIAN", "count": 1},
     {"level": 0, "frequency": "secret", "type": "BEDROOM", "count": 1},
+    {"level": 0, "frequency": "secret", "type": "FIREWORK", "count": 1},
 
     {"level": 1, "frequency": "secret", "type": "SMITH", "count": 1},
     {"level": 1, "frequency": "single", "type": "PIT", "count": 1},
@@ -23,7 +24,7 @@
     {"level": 4, "frequency": "single", "type": "OBSIDIAN", "count": 3},
     {"level": 4, "frequency": "single", "type": "NETHERFORT", "count": 1},
     {"level": 4, "frequency": "single", "type": "REWARD", "count": 1},
-    {"level": 4, "frequency": "secret", "type": "FIREWORK", "count": 1},
+    {"level": 4, "frequency": "secret", "type": "REWARD", "count": 1},
 
     {"level": [0,1,2,3,4], "frequency": "random", "type": "CORNER", "weight": 10},
     {"level": [0,1,2,3,4], "frequency": "random", "type": "DARKHALL", "weight": 5},
