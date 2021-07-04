@@ -25,6 +25,8 @@
     {"level": 4, "frequency": "single", "type": "NETHERFORT", "count": 1},
     {"level": 4, "frequency": "single", "type": "REWARD", "count": 1},
     {"level": 4, "frequency": "secret", "type": "REWARD", "count": 1},
+    {"level": 4, "frequency": "random", "type": "NETHER_PORTAL", "weight": 1},
+    {"level": 4, "frequency": "random", "type": "PLATFORMS", "weight": 1},
 
     {"level": [0,1,2,3,4], "frequency": "random", "type": "CORNER", "weight": 10},
     {"level": [0,1,2,3,4], "frequency": "random", "type": "DARKHALL", "weight": 5},
