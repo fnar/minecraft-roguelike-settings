@@ -1,24 +1,24 @@
 {
   "name": "loot:megaloot",
   "requires": ["megaloot"],
-  "lootRules" : [
+  "lootRules": [
     {
-      "level" : [0,1,2,3,4],
-      "type" : "ORE",
-      "each" : true,
-      "quantity" : 2,
-      "loot" : [
-        {"data" : {"name" : "megaloot:shard_common"}, "weight" : 3},
-        {"data" : {"name" : "megaloot:shard_rare"}, "weight" : 1}
+      "level": [0,1,2,3,4],
+      "type": "ORE",
+      "each": true,
+      "quantity": 2,
+      "loot": [
+        {"data": {"name": "megaloot:shard_common"}, "weight": 3},
+        {"data": {"name": "megaloot:shard_rare"}, "weight": 1}
       ]
     },
     {
-      "level" : [1,2],
-      "type" : "ORE",
-      "each" : true,
-      "quantity" : 2,
-      "loot" : [
-        {"data" : {"name" : "megaloot:shard_common"}, "weight" : 4},
+      "level": [1,2],
+      "type": "ORE",
+      "each": true,
+      "quantity": 2,
+      "loot": [
+        {"data": {"name" : "megaloot:shard_common"}, "weight" : 4},
         {"data" : {"name" : "megaloot:shard_rare"}, "weight" : 4},
         {"data" : {"name" : "megaloot:shard_epic"}, "weight" : 1}
       ]

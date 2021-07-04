@@ -1,14 +1,14 @@
 {
-  "name" : "theme:cave",
-  "themes" : [
+  "name": "theme:cave",
+  "themes": [
     {
       "base": "MOSSY",
-      "primary" : {
-        "walls" : {
-          "type" : "WEIGHTED",
-          "data" : [
-            {"type" : "METABLOCK", "data" : {"name" : "stone"}, "weight": 100},
-            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight": 10},
+      "primary": {
+        "walls": {
+          "type": "WEIGHTED",
+          "data": [
+            {"type": "METABLOCK", "data": {"name": "stone"}, "weight": 100},
+            {"type": "METABLOCK", "data" : {"name" : "cobblestone"}, "weight": 10},
             {"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight": 10},
             {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight": 10},
             {"type" : "METABLOCK", "data" : {"name" : "dirt"}, "weight": 10},

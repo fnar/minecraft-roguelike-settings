@@ -30,24 +30,24 @@
         "floor": {"type": "WEIGHTED", "data": [
             {"type": "METABLOCK", "data": {"name": "stone"}, "weight": 5},
             {"type": "METABLOCK", "data": {"name": "stonebrick", "meta": 0}, "weight": 75},
-            {"type": "METABLOCK", "data": {"name": "stonebrick", "meta" : 2}, "weight" : 10},
+            {"type": "METABLOCK", "data": {"name": "stonebrick", "meta": 2}, "weight": 10},
 
-            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight" : 10},
-            {"type" : "METABLOCK", "data" : {"name" : "stone_stairs"}, "weight" : 2},
-            {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight" : 2},
+            {"type": "METABLOCK", "data": {"name": "cobblestone"}, "weight": 10},
+            {"type": "METABLOCK", "data": {"name": "stone_stairs"}, "weight": 2},
+            {"type": "METABLOCK", "data": {"name": "gravel"}, "weight": 2},
 
-            {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 1}, "weight" : 15},
-            {"type" : "METABLOCK", "data" : {"name" : "mossy_cobblestone"}, "weight" : 10},
-            {"type" : "METABLOCK", "data" : {"name" : "leaves"}, "weight" : 2},
+            {"type": "METABLOCK", "data": {"name": "stonebrick", "meta": 1}, "weight": 15},
+            {"type": "METABLOCK", "data": {"name": "mossy_cobblestone"}, "weight": 10},
+            {"type": "METABLOCK", "data": {"name": "leaves"}, "weight": 2},
 
-            {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight" : 20},
-            {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight" : 1}
+            {"type": "METABLOCK", "data": {"name": "grass"}, "weight": 20},
+            {"type": "METABLOCK", "data": {"name": "grass_path"}, "weight": 1}
           ]
         }
       },
-      "secondary" : {
+      "secondary": {
         "lightblock": {"type":  "METABLOCK", "data":  {"name":  "sea_lantern"}},
-        "walls" : {"type" : "WEIGHTED", "data" : [
+        "walls": {"type": "WEIGHTED", "data": [
             {"type" : "METABLOCK", "data" : {"name" : "stone", "meta" : 0}, "weight" : 2},
             {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 0}, "weight" : 2},
             {"type" : "METABLOCK", "data" : {"name" : "stonebrick", "meta" : 2}, "weight" : 2},
