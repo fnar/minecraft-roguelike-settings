@@ -51,14 +51,14 @@
     },
     {
       "level": [0, 1, 2, 3, 4],
+      "each": false,
+      "quantity": 2,
       "loot": [
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"unbreaking\"}]}"}, "weight": 1},
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"sharpness\"}]}"}, "weight": 1},
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"protection\"}]}"}, "weight": 1},
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"efficiency\"}]}"}, "weight": 1}
-      ],
-      "each": false,
-      "quantity": 1
+      ]
     },
 
     {
