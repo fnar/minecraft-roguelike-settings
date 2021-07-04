@@ -1,5 +1,5 @@
 {
-  "name": "loot:armour",
+  "name": "fnar:loot_armour",
   "lootRules": [
     {"level": 0, "type": "ARMOUR", "loot": [{"data": {"type": "armour", "level": 0}}], "each": true, "quantity": 1},
     {"level": 1, "type": "ARMOUR", "loot": [{"data": {"type": "armour", "level": 1}}], "each": true, "quantity": 1},

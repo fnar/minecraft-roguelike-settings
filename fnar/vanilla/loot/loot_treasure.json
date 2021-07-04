@@ -1,5 +1,5 @@
 {
-  "name": "loot:treasure",
+  "name": "fnar:loot_treasure",
   "lootRules": [
     {
       "level": [1, 2, 3, 4],

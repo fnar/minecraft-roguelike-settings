@@ -1,5 +1,5 @@
 {
-  "name": "loot:other",
+  "name": "fnar:loot_other",
   "lootRules": [
     {
       "level": [0, 1, 2, 3, 4],

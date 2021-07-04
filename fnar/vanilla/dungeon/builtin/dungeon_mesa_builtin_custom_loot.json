@@ -3,6 +3,6 @@
   "exclusive": true,
   "inherit" : [
     "builtin:dungeon_mesa_no_loot",
-    "loot:custom"
+    "fnar:loot_custom"
   ]
 }

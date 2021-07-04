@@ -5,6 +5,6 @@
     "layout:dense_small",
     "rooms:generic",
     "segments:generic",
-    "loot:custom"
+    "fnar:loot_custom"
   ]
 }

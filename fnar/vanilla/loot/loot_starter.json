@@ -1,5 +1,5 @@
 {
-  "name": "loot:starter",
+  "name": "fnar:loot_starter",
   "lootRules": [
     {
       "level": [0,1,2,3,4], "type": "STARTER", "each": true, "quantity": 1,

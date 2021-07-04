@@ -1,5 +1,5 @@
 {
-  "name": "loot_tables:rewards",
+  "name": "fnar:loot_tables_rewards",
 
   "lootTables": [
     {"type": "REWARD", "table": "minecraft:chests/simple_dungeon"},

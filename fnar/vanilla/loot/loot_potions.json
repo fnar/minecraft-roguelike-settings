@@ -1,5 +1,5 @@
 {
-  "name": "loot:potions",
+  "name": "fnar:loot_potions",
   "lootRules": [
     {
       "level": [0, 1, 2, 3, 4],

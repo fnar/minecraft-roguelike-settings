@@ -1,5 +1,5 @@
 {
-  "name": "loot:weapons",
+  "name": "fnar:loot_weapons",
   "lootRules": [
     {"level": 0, "type": "WEAPONS", "loot": [{"data": {"type": "weapon", "level": 0}}], "each": true, "quantity": 1},
     {"level": 1, "type": "WEAPONS", "loot": [{"data": {"type": "weapon", "level": 1}}], "each": true, "quantity": 1},

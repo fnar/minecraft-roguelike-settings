@@ -1,5 +1,5 @@
 {
-  "name": "loot:blocks",
+  "name": "fnar:loot_blocks",
   "lootRules": [
     {
       "level": [0, 1, 2, 3, 4],

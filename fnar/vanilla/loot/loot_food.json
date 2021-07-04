@@ -1,5 +1,5 @@
 {
-  "name": "loot:food",
+  "name": "fnar:loot_food",
   "lootRules": [
     {
       "level": [0, 1, 2, 3, 4],

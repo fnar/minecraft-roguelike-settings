@@ -3,6 +3,6 @@
   "exclusive": true,
   "inherit" : [
     "builtin:dungeon_jungle_no_loot",
-    "loot:custom"
+    "fnar:loot_custom"
   ]
 }

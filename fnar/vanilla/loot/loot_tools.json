@@ -1,5 +1,5 @@
 {
-  "name": "loot:tools",
+  "name": "fnar:loot_tools",
   "lootRules": [
     {"level": 0, "type": "TOOLS", "loot": [{"data": {"type": "tool", "level": 0}}], "each": true, "quantity": 1},
     {"level": 1, "type": "TOOLS", "loot": [{"data": {"type": "tool", "level": 1}}], "each": true, "quantity": 1},

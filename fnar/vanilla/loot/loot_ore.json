@@ -1,5 +1,5 @@
 {
-  "name": "loot:ore",
+  "name": "fnar:loot_ore",
   "lootRules": [
     {"level": [0,1,2,3,4], "type": "ORE", "each": true, "quantity": 1, "loot": [{"data": {"name": "minecraft:coal", "min": 1, "max": 4}}]},
     {"level": [0,1,2,3,4], "type": "ORE", "each": true, "quantity": 1, "loot": [{"data": {"name": "minecraft:dye", "meta": 4, "min": 0, "max": 3}}]},

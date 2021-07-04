@@ -1,6 +1,6 @@
 // if you've found this, hit me up and send me a pull request. Let's add some fun flavor text to these.
 {
-  "name": "loot:trading_cards",
+  "name": "fnar:loot_trading_cards",
   "lootRules": [
     {
       "level": [4],

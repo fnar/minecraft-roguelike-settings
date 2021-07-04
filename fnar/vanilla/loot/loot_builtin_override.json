@@ -3,6 +3,6 @@
 {
   "name": "builtin:loot",
   "inherit": [
-    "loot:custom"
+    "fnar:loot_custom"
   ]
 }
