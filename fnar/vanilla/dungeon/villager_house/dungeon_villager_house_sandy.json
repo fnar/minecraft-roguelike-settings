@@ -11,8 +11,7 @@
     "spawners:undead"
   ],
   "filters": [
-    {"level": [1, 2, 3], "name": "vine"},
-    {"level": [1, 3], "name": "cobweb"},
+    {"level": [3], "name": "vine"},
     {"level": [4], "name": "mud"}
   ],
   "rooms": [

@@ -8,12 +8,12 @@
     "rooms:undead",
     "segments:traps_few",
     "spawners:evil_humanoids",
+    "spawners:spiders",
     "spawners:undead",
     "tower:villager_house"
   ],
   "filters": [
     {"level": [1, 2, 3], "name": "vine"},
-    {"level": [1, 3], "name": "cobweb"},
     {"level": [4], "name": "mud"}
   ],
   "themes": [
