@@ -1,5 +1,5 @@
 {
-  "name": "loot:megaloot",
+  "name": "megaloot:loot",
   "requires": ["megaloot"],
   "lootRules": [
     {

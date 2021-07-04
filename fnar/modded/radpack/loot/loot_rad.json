@@ -1,10 +1,10 @@
 {
-  "name": "loot:rad",
-  "requires": ["ebwizardry"],
+  "name": "rad:loot",
+  "requires": ["ebwizardry", "megaloot", "random_loot", "waystones"],
   "inherit": [
-    "loot:ebwizardry",
-    "loot:megaloot",
-    "loot:random_loot",
-    "loot:waystones"
+    "ebwizardry:loot",
+    "megaloot:loot",
+    "random_loot:loot",
+    "waystones:loot"
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "name": "loot:fnarpack_tools",
+  "name": "fnarpack:loot_tools",
   "requires": [
     "cyclicmagic",
     "dungeontactics",

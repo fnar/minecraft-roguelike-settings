@@ -1,5 +1,5 @@
 {
-  "name": "theme:lycanites_lush",
+  "name": "lycanites:theme_lush",
   "requires": ["lycanitesmobs"],
   "themes": [
     {

@@ -1,5 +1,5 @@
 {
-  "name": "loot:ebwizardry",
+  "name": "ebwizardry:loot",
   "requires": ["ebwizardry"],
   "lootRules": [
     {

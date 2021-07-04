@@ -1,5 +1,5 @@
 {
-  "name": "loot:fnarpack_treasure",
+  "name": "fnarpack:loot_treasure",
   "requires": [
     "akashictome",
     "antiqueatlas",

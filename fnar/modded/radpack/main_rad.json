@@ -1,7 +1,7 @@
 {
-  "name": "main:rad",
-  "requires": ["ebwizardry"],
+  "name": "rad:main",
+  "requires": ["ebwizardry", "megaloot", "random_loot", "waystones"],
   "inherit": [
-    "loot:rad"
+    "rad:loot"
   ]
 }

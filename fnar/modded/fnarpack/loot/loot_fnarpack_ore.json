@@ -1,5 +1,5 @@
 {
-  "name": "loot:fnarpack_ore",
+  "name": "fnarpack:loot_ore",
   "requires": ["aquaculture", "defiledlands", "dungeontactics", "embers", "railcraft"],
   "lootRules": [
     {

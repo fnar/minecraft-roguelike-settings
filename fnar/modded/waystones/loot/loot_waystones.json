@@ -1,5 +1,5 @@
 {
-  "name": "loot:waystones",
+  "name": "waystones:loot",
   "requires": ["waystones"],
   "lootRules": [
     {

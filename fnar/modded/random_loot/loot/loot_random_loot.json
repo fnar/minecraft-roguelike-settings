@@ -1,5 +1,5 @@
 {
-  "name": "loot:random_loot",
+  "name": "random_loot:loot",
   "requires": ["randomloot"],
   "lootRules" : [
     {

@@ -1,5 +1,5 @@
 {
-  "name": "spawners:myrmex_boss",
+  "name": "ice_and_fire:spawners_myrmex_boss",
   "requires": ["iceandfire"],
   "spawners": [
     {
