@@ -1,5 +1,5 @@
 {
-  "name" : "rooms:forest_temple",
+  "name": "rooms:forest_temple",
   "inherit": [
     "rooms:generic"
   ],

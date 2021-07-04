@@ -1,8 +1,8 @@
 {
-  "name" : "dungeon:cave_small",
+  "name": "fnar:dungeon_cave_small",
   "exclusive": true,
-  "inherit" : [
-    "dungeon:cave",
+  "inherit": [
+    "fnar:dungeon_cave",
     "layout:size_small"
   ]
 }

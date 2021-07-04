@@ -1,9 +1,9 @@
 {
-  "name": "dungeon:villager_house",
+  "name": "fnar:dungeon_villager_house",
   "exclusive": true,
-  "criteria" : {"biomeTypes" : ["FOREST", "MOUNTAINS", "PLAINS"]},
+  "criteria": {"biomeTypes": ["FOREST", "MOUNTAINS", "PLAINS"]},
   "inherit": [
-    "dungeon:common",
+    "fnar:dungeon_base",
     "rooms:traps_few",
     "rooms:undead",
     "segments:traps_few",

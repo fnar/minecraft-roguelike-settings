@@ -1,9 +1,9 @@
 {
-  "name" : "dungeon:ice_pyramid_small",
+  "name": "fnar:dungeon_ice_pyramid_small",
   "exclusive": true,
   "criteria": {"biomeTypes": ["SNOWY"]},
-  "inherit" : [
-    "dungeon:ice_pyramid",
+  "inherit": [
+    "fnar:dungeon_ice_pyramid",
     "layout:size_small"
   ]
 }

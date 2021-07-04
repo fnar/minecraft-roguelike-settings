@@ -1,9 +1,9 @@
 {
-  "name" : "dungeon:house",
+  "name": "fnar:dungeon_house",
   "exclusive": true,
   "criteria": {"biomeTypes": ["FOREST", "HILLS", "MOUNTAIN", "PLAINS"]},
-  "inherit" : [
-    "dungeon:common",
+  "inherit": [
+    "fnar:dungeon_base",
     "theme:forest",
     "tower:house_house"
   ]

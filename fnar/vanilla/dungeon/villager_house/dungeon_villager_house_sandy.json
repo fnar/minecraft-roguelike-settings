@@ -1,9 +1,9 @@
 {
-  "name": "dungeon:villager_house_sandy",
+  "name": "fnar:dungeon_villager_house_sandy",
   "exclusive": true,
-  "criteria" : {"biomeTypes" : ["SANDY"]},
+  "criteria": {"biomeTypes": ["SANDY"]},
   "inherit": [
-    "dungeon:common",
+    "fnar:dungeon_base",
     "rooms:traps_few",
     "rooms:undead",
     "segments:traps_few",

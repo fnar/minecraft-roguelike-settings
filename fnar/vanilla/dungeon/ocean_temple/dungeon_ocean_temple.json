@@ -1,10 +1,10 @@
 {
-  "name": "dungeon:ocean_temple",
+  "name": "fnar:dungeon_ocean_temple",
   "exclusive": true,
   "criteria":{ "biomeTypes": ["OCEAN"]},
   "overrides": ["ROOMS"],
   "inherit": [
-    "dungeon:common",
+    "fnar:dungeon_base",
     "theme:ocean_temple",
     "tower:ocean_temple",
     "spawners:undead"

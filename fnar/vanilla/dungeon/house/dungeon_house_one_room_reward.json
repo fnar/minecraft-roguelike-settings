@@ -1,5 +1,5 @@
 {
-  "name": "dungeon:house_one_room_reward",
+  "name": "fnar:dungeon_house_one_room_reward",
   "exclusive": true,
   "criteria": {"biomeTypes": ["FOREST", "HILLS", "MOUNTAIN", "PLAINS"]},
   "overrides": [
@@ -7,7 +7,7 @@
     "TOWER"
   ],
   "inherit": [
-    "dungeon:house"
+    "fnar:dungeon_house"
   ],
   "tower": {"type": "HOUSE", "theme": {"base": "OAK"}},
   "themes": [{"base": "OAK", "level": [0,1,2,3,4]}],

@@ -1,9 +1,9 @@
 {
-  "name" : "dungeon:forest_temple_small",
+  "name": "fnar:dungeon_forest_temple_small",
   "exclusive": true,
   "criteria": {"biomeTypes": ["FOREST"]},
-  "inherit" : [
-    "dungeon:forest_temple",
+  "inherit": [
+    "fnar:dungeon_forest_temple",
     "layout:size_small"
   ]
 }

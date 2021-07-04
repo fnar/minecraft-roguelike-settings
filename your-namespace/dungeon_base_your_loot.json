@@ -1,0 +1,14 @@
+// Feel free to rename and customize this file.
+// Extend from this dungeon (inherit it) to have a personal, custom base
+{
+  "name": "your_name_here:dungeon_base",
+
+  // Still a prototype, does not spawn. Inherit into a dungeon with "exclusive" set to true.
+  "exclusive": false,
+
+  // Specifies which settings this dungeon will extend from (inherit from).
+  "inherit": [
+    "base:dungeon_base",
+    "your_name_here:loot_custom", // add your own loot
+  ]
+}

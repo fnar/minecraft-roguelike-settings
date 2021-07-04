@@ -4,7 +4,7 @@ To accomplish this, first define a loot file, then merge it with a
 
 ```json
 {
-  "name": "my_name_here:loot_food",
+  "name": "your_name_here:loot_food",
   "lootRules": [
     {
       "level": [0, 1, 2, 3, 4],
@@ -22,11 +22,11 @@ To accomplish this, first define a loot file, then merge it with a
 Then, create a new dungeon, which inherits both from your custom loot file, and these loot-less builtin dungeons, one per dungeon type
 ```json
 {
-  "name" : "my_name_here:dungeon_builtin_desert_with_custom_loot",
+  "name" : "your_name_here:dungeon_builtin_desert_with_custom_loot",
   "exclusive": true,
   "inherit" : [
     "builtin:desert_builtin_no_loot",
-    "my_name_here:loot_food"
+    "your_name_here:loot_food"
   ]
 }
 ```

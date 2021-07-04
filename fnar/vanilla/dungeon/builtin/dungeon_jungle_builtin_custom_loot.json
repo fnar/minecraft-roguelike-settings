@@ -1,7 +1,7 @@
 {
-  "name" : "dungeon:jungle_builtin_custom_loot",
+  "name": "fnar:dungeon_jungle_builtin_custom_loot",
   "exclusive": true,
-  "inherit" : [
+  "inherit": [
     "builtin:dungeon_jungle_no_loot",
     "fnar:loot_custom"
   ]

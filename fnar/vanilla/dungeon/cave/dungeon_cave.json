@@ -1,13 +1,13 @@
 {
-  "name": "dungeon:cave",
+  "name": "fnar:dungeon_cave",
   "exclusive": true,
   "inherit": [
-    "dungeon:common",
+    "fnar:dungeon_base",
     "tower:hole",
     "theme:cave",
 
     "filter:muddy",
     "filter:viney",
   ],
-  "criteria" : {"biomeTypes" : ["FOREST", "MESA", "PLAINS", "SANDY", "SNOWY"]}
+  "criteria": {"biomeTypes": ["FOREST", "MESA", "PLAINS", "SANDY", "SNOWY"]}
 }
