@@ -3,6 +3,6 @@
   "exclusive": false,
   "inherit": [
     "base:dungeon_base",
-    "fnar:loot_custom"
+    "fnar:loot"
   ]
 }

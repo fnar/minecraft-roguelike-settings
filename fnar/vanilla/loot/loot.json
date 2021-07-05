@@ -1,5 +1,5 @@
 {
-  "name": "fnar:loot_custom",
+  "name": "fnar:loot",
   "inherit": [
     "fnar:loot_all",
     "fnar:loot_armour",
