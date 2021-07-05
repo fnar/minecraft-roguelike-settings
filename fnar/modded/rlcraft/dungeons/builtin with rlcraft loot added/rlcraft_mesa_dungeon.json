@@ -1,8 +1,0 @@
-{
-  "name": "rlcraft:mesa_dungeon",
-  "exclusive": true,
-  "inherit": [
-    "builtin:mesa",
-    "rlcraft:loot"
-  ]
-}

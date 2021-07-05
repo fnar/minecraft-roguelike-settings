@@ -1,8 +1,0 @@
-{
-  "name": "rlcraft:ice_dungeon",
-  "exclusive": true,
-  "inherit": [
-    "builtin:ice",
-    "rlcraft:loot"
-  ]
-}

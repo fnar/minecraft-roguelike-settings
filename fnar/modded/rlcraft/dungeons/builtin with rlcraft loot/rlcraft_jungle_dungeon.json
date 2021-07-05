@@ -1,0 +1,8 @@
+{
+  "name": "rlcraft:dungeon_jungle",
+  "exclusive": true,
+  "inherit": [
+    "builtin:dungeon_jungle_no_loot",
+    "rlcraft:loot"
+  ]
+}

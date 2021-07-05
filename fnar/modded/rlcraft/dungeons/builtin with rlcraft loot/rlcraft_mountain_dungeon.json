@@ -1,0 +1,8 @@
+{
+  "name": "rlcraft:dungeon_mountain",
+  "exclusive": true,
+  "inherit": [
+    "builtin:dungeon_mountain_no_loot",
+    "rlcraft:loot"
+  ]
+}
