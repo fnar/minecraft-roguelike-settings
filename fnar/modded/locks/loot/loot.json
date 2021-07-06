@@ -1,0 +1,71 @@
+{
+  "name": "locks:loot",
+  "lootRules": [
+    {
+      "level": [0],
+      "each": false,
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "locks:wood_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+    },
+    {
+      "level": [1],
+      "each": false,
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "locks:wood_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+    },
+    {
+      "level": [2],
+      "each": false,
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:gold_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+   ,
+    },    {
+      "level": [3],
+      "each": false,
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:gold_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:steel_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+    },
+    {
+      "level": [4],
+      "each": false,
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "locks:gold_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:steel_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:diamond_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+    },
+
+    {
+      "level": [0,1,2,3,4],
+      "each": true,
+      "type": "TOOLS",
+      "quantity": 1,
+      "loot": [
+        {"data": {"name": "locks:wood_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+    },
+    {
+      "level": [0,1,2,3,4],
+      "each": true,
+      "type": "SUPPLIES",
+      "quantity": 1,
+      "loot": [
+        {"data": {"name": "locks:wood_lock_pick", "min": 1, "max": 8}, "weight": 1},
+        {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1}
+      ]
+    }
+}
