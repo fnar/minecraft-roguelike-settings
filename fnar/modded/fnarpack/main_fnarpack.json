@@ -34,12 +34,6 @@
     "xpbook"
   ],
   "inherit": [
-    "artisanworktables:loot",
-    "ebwizardry:loot",
-    "fnarpack:loot_armour",
-    "fnarpack:loot_ore",
-    "fnarpack:loot_tools",
-    "fnarpack:loot_treasure",
-    "fnarpack:loot_weapons"
+    "fnarpack:loot"
   ]
 }

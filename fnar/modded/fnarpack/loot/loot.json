@@ -1,0 +1,14 @@
+{
+  "name": "fnarpack:loot",
+  "inherit": [
+    "fnarpack:loot_armour",
+    "fnarpack:loot_ore",
+    "fnarpack:loot_tools",
+    "fnarpack:loot_treasure",
+    "fnarpack:loot_weapons",
+
+    "artisanworktables:loot",
+    "ebwizardry:loot",
+    "spartanweaponry:loot"
+  ]
+}
