@@ -1,7 +1,7 @@
 {
   "name": "fnar:dungeon_ocean_temple",
   "exclusive": true,
-  "criteria":{ "biomeTypes": ["OCEAN"]},
+  "criteria":{ "biomeTypes": ["OCEAN", "BEACH"]},
   "overrides": ["ROOMS"],
   "inherit": [
     "fnar:dungeon_base",
