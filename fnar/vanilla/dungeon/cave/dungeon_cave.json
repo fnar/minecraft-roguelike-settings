@@ -7,7 +7,7 @@
     "theme:cave",
 
     "filter:muddy",
-    "filter:viney",
+    "filter:viney"
   ],
   "criteria": {"biomeTypes": ["FOREST", "MESA", "PLAINS", "SANDY", "SNOWY"]}
 }

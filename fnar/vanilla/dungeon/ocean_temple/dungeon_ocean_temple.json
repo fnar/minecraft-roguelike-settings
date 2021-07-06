@@ -27,6 +27,6 @@
     {"level": [0, 1, 2, 3, 4], "type": "SEWERARCH", "weight": 1},
     {"level": [0, 1, 2, 3, 4], "type": "SEWERDOOR", "weight": 1},
     {"level": [0, 1, 2, 3, 4], "type": "SEWERDRAIN", "weight": 1},
-    {"level": [0, 1, 2, 3, 4], "type": "SPAWNER", "weight": 1}
+    {"level": [0, 1, 2, 3, 4], "type": "SPAWNER", "weight": 5}
   ]
 }
