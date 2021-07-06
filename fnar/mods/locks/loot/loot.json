@@ -1,5 +1,6 @@
 {
   "name": "locks:loot",
+  "requires": ["locks"],
   "lootRules": [
     {
       "level": [0],
@@ -26,8 +27,8 @@
         {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1},
         {"data": {"name": "locks:gold_lock_pick", "min": 1, "max": 8}, "weight": 1}
       ]
-   ,
-    },    {
+    },
+    {
       "level": [3],
       "each": false,
       "quantity": 3,
@@ -47,7 +48,6 @@
         {"data": {"name": "locks:diamond_lock_pick", "min": 1, "max": 8}, "weight": 1}
       ]
     },
-
     {
       "level": [0,1,2,3,4],
       "each": true,
@@ -68,4 +68,5 @@
         {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 8}, "weight": 1}
       ]
     }
+  ]
 }

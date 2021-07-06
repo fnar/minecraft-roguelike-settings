@@ -1,13 +1,14 @@
 {
   "name": "rlcraft:loot_all",
+  "requires": ["waystones"],
   "exclusive": false,
   "lootRules": [
     {
       "level": [0,1,2,3,4], "each": false, "quantity": 3,
       "loot": [
-        {"data" : {"name" : "waystones:return_scroll"}, "weight" : 16},
-        {"data" : {"name" : "waystones:bound_scroll"}, "weight" : 4},
-        {"data" : {"name" : "waystones:warp_scroll"}, "weight" : 1}
+        {"data": {"name": "waystones:return_scroll"}, "weight": 16},
+        {"data": {"name": "waystones:bound_scroll"}, "weight": 4},
+        {"data": {"name": "waystones:warp_scroll"}, "weight": 1}
       ]
     },
     {
@@ -21,8 +22,8 @@
       "loot": [
         // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
-   ,
-    },    {
+    },
+    {
       "level": [0], "each": true, "quantity": 1,
       "loot": [
         // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
@@ -45,8 +46,8 @@
       "loot": [
         // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
-   ,
-    },    {
+    },
+    {
       "level": [2], "each": true, "quantity": 1,
       "loot": [
         // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
@@ -69,9 +70,8 @@
       "loot": [
         // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
-   ,
-    }
-,    {
+    },
+    {
       "level": [4], "each": true, "quantity": 1,
       "loot": [
         // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}

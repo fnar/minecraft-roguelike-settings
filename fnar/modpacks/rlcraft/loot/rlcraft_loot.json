@@ -3,11 +3,14 @@
   "exclusive": false,
   "requires": [
     "iceandfire",
+    "locks",
     "notreepunching",
     "qualitytools",
     "simpledifficulty",
     "spartanweaponry",
-    "wolfarmor"
+    "trumpetskeleton",
+    "wolfarmor",
+    "waystones"
   ],
   "inherit": [
     "rlcraft:loot_all",
