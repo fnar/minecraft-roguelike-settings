@@ -1,0 +1,9 @@
+{
+  "name": "rlcraft:dungeon_ice_pyramid_large",
+  "exclusive": true,
+  "criteria": {"biomeTypes": ["SNOWY"]},
+  "inherit": [
+    "rlcraft:dungeon_ice_pyramid",
+    "layout:size_large"
+  ]
+}

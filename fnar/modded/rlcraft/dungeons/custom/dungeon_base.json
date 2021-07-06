@@ -1,7 +1,8 @@
 {
-  "name": "rlcraft:main",
+  "name": "rlcraft:dungeon_base",
   "exclusive": false,
   "inherit": [
+    "base:dungeon_base",
     "rlcraft:loot"
   ]
 }

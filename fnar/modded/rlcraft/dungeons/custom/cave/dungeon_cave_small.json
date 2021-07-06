@@ -1,0 +1,8 @@
+{
+  "name": "rlcraft:dungeon_cave_small",
+  "exclusive": true,
+  "inherit": [
+    "rlcraft:dungeon_cave",
+    "layout:size_small"
+  ]
+}
