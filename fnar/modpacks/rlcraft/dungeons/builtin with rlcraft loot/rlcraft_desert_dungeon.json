@@ -1,8 +1,0 @@
-{
-  "name": "rlcraft:dungeon_desert",
-  "exclusive": true,
-  "inherit": [
-    "builtin:dungeon_desert_no_loot",
-    "rlcraft:loot"
-  ]
-}
