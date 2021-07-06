@@ -1,7 +1,16 @@
 {
   "name": "rlcraft:loot",
   "exclusive": false,
+  "requires": [
+    "iceandfire",
+    "notreepunching",
+    "qualitytools",
+    "simpledifficulty",
+    "spartanweaponry",
+    "wolfarmor"
+  ],
   "inherit": [
+    "rlcraft:loot_all",
     "rlcraft:loot_armour",
     "rlcraft:loot_blocks",
     "rlcraft:loot_brewing",
@@ -16,6 +25,13 @@
     "rlcraft:loot_supplies",
     "rlcraft:loot_tools",
 
-    "fnar:loot"
+    "rlcraft:loot_iceandfire",
+    "rlcraft:loot_qualitytools",
+
+    "fnar:loot",
+    "locks:loot",
+    "notreepunching:loot",
+    "spartanweaponry:loot",
+    "wolfarmor:loot"
   ]
 }
