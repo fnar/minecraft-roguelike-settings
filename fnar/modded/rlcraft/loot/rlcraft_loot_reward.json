@@ -5,37 +5,37 @@
     {
       "level": [0,1,2,3,4], "type": "REWARD", "each": true, "quantity": 1,
       "loot": [
-        // {"name": "minecraft:stone", "meta": 0, "min": 4, "max": 16}
+        // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
     },
     {
       "level": [0], "type": "REWARD", "each": true, "quantity": 1,
       "loot": [
-        // {"name": "minecraft:stone", "meta": 0, "min": 4, "max": 16}
+        // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
     },
     {
       "level": [1], "type": "REWARD", "each": true, "quantity": 1,
       "loot": [
-        // {"name": "minecraft:stone", "meta": 0, "min": 4, "max": 16}
+        // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
     },
     {
       "level": [2], "type": "REWARD", "each": true, "quantity": 1,
       "loot": [
-        // {"name": "minecraft:stone", "meta": 0, "min": 4, "max": 16}
+        // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
     },
     {
       "level": [3], "type": "REWARD", "each": true, "quantity": 1,
       "loot": [
-        // {"name": "minecraft:stone", "meta": 0, "min": 4, "max": 16}
+        // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
     },
     {
       "level": [4], "type": "REWARD", "each": true, "quantity": 1,
       "loot": [
-        // {"name": "minecraft:stone", "meta": 0, "min": 4, "max": 16}
+        // {"data": {"name": "minecraft:stone", "meta":0, "min": 1, "max": 2}, "weight": 1}
       ]
     }
   ]
