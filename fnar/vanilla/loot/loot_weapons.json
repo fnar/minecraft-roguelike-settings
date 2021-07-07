@@ -24,13 +24,13 @@
       "level": [1, 2, 3, 4],
       "type": "WEAPONS",
       "each": false,
-      "quantity": 2,
+      "quantity": 1,
       "loot": [
-        {"data": {"type": "weapon", "level": 0}, "weight": 8},
-        {"data": {"type": "weapon", "level": 1}, "weight": 8},
-        {"data": {"type": "weapon", "level": 2}, "weight": 4},
-        {"data": {"type": "weapon", "level": 3}, "weight": 2},
-        {"data": {"type": "weapon", "level": 4}, "weight": 1}
+        {"data": {"type": "weapon", "level": 0, "ench": false}, "weight": 8},
+        {"data": {"type": "weapon", "level": 1, "ench": false}, "weight": 8},
+        {"data": {"type": "weapon", "level": 2, "ench": false}, "weight": 4},
+        {"data": {"type": "weapon", "level": 3, "ench": false}, "weight": 2},
+        {"data": {"type": "weapon", "level": 4, "ench": false}, "weight": 1}
       ]
     },
 

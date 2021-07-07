@@ -23,13 +23,13 @@
       "level": [1, 2, 3, 4],
       "type": "ARMOUR",
       "each": false,
-      "quantity": 3,
+      "quantity": 2,
       "loot": [
-        {"data": {"type": "armour", "level": 0}, "weight": 8},
-        {"data": {"type": "armour", "level": 1}, "weight": 8},
-        {"data": {"type": "armour", "level": 2}, "weight": 4},
-        {"data": {"type": "armour", "level": 3}, "weight": 2},
-        {"data": {"type": "armour", "level": 4}, "weight": 1}
+        {"data": {"type": "armour", "level": 0, "ench": false}, "weight": 8},
+        {"data": {"type": "armour", "level": 1, "ench": false}, "weight": 8},
+        {"data": {"type": "armour", "level": 2, "ench": false}, "weight": 4},
+        {"data": {"type": "armour", "level": 3, "ench": false}, "weight": 2},
+        {"data": {"type": "armour", "level": 4, "ench": false}, "weight": 1}
       ]
     },
 
