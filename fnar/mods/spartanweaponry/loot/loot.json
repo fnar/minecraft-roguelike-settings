@@ -5,10 +5,10 @@
     {
       "level": [0, 1, 2],
       "each": true,
-      "type": "WEAPON",
+      "type": "WEAPONS",
       "quantity": 1,
       "loot": [
-        {"data": {"name": "minecraft:stick"}, "weight": 75},
+        {"data": {"name": "minecraft:stick"}, "weight": 50},
 
         {"data": {"name": "spartanweaponry:longbow_wood"}, "weight": 1},
         {"data": {"name": "spartanweaponry:crossbow_wood"}, "weight": 1},
@@ -16,8 +16,6 @@
         {"data": {"name": "spartanweaponry:longbow_leather"}, "weight": 1},
         {"data": {"name": "spartanweaponry:crossbow_leather"}, "weight": 1},
 
-        {"data": {"name": "spartanweaponry:longbow_stone"}, "weight": 1},
-        {"data": {"name": "spartanweaponry:crossbow_stone"}, "weight": 1},
         {"data": {"name": "spartanweaponry:dagger_stone"}, "weight": 1},
         {"data": {"name": "spartanweaponry:longsword_stone"}, "weight": 1},
         {"data": {"name": "spartanweaponry:katana_stone"}, "weight": 1},
@@ -66,10 +64,10 @@
     {
       "level": [1, 2, 3],
       "each": true,
-      "type": "WEAPON",
+      "type": "WEAPONS",
       "quantity": 1,
       "loot": [
-        {"data": {"name": "minecraft:stick"}, "weight": 75},
+        {"data": {"name": "minecraft:stick"}, "weight": 50},
 
         {"data": {"name": "spartanweaponry:longbow_silver"}, "weight": 1},
         {"data": {"name": "spartanweaponry:crossbow_silver"}, "weight": 1},
@@ -142,10 +140,10 @@
     {
       "level": [3, 4],
       "each": true,
-      "type": "WEAPON",
+      "type": "WEAPONS",
       "quantity": 1,
       "loot": [
-        {"data": {"name": "minecraft:stick"}, "weight": 75},
+        {"data": {"name": "minecraft:stick"}, "weight": 50},
 
         {"data": {"name": "spartanweaponry:longbow_iron"}, "weight": 1},
         {"data": {"name": "spartanweaponry:crossbow_iron"}, "weight": 1},

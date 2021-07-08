@@ -30,10 +30,6 @@
         {"data" : {"name" : "notreepunching:mattock/iron"}, "weight" : 1},
         {"data" : {"name" : "notreepunching:saw/iron"}, "weight" : 1},
 
-        {"data" : {"name" : "notreepunching:knife/steel"}, "weight" : 1},
-        {"data" : {"name" : "notreepunching:mattock/steel"}, "weight" : 1},
-        {"data" : {"name" : "notreepunching:saw/steel"}, "weight" : 1},
-
         {"data" : {"name" : "notreepunching:knife/diamond"}, "weight" : 1},
         {"data" : {"name" : "notreepunching:mattock/diamond"}, "weight" : 1},
         {"data" : {"name" : "notreepunching:saw/diamond"}, "weight" : 1}
