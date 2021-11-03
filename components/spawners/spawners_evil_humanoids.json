@@ -8,7 +8,7 @@
       "level": [0, 1, 2, 3, 4],
       "potentials": [
         {"name": "minecraft:evocation_illager"},
-        {"name": "minecraft:illusion_illager"},
+        {"name": "minecraft:illusion_illager", "nbt": "{HandItems:[{id:\"minecraft:bow\",Count:1},{}]}"},
         {"name": "minecraft:witch"},
         {"name": "minecraft:villager"}
       ]
@@ -16,7 +16,7 @@
     {
       "level": [0, 1, 2, 3, 4],
       "potentials": [
-        {"weight": 1, "name": "minecraft:illusion_illager"},
+        {"weight": 1, "name": "minecraft:illusion_illager", "nbt": "{HandItems:[{id:\"minecraft:bow\",Count:1},{}]}"},
         {"weight": 1, "name": "minecraft:zombie"}
       ]
     }
