@@ -1,1 +1,1 @@
-To enable these with your dungeons, assuming you have my other configurations, add "ebwizardry:loot_ebwizardry" to the "inherit" list body in `config/roguelike_dungeons/settings/fnar/vanilla/dungeon/dungeon_common.json`  
+To enable these with your dungeons, assuming you have my other configurations, add "ebwizardry:loot_ebwizardry_v4.3.4" to the "inherit" list body in `config/roguelike_dungeons/settings/fnar/vanilla/dungeon/dungeon_common.json`  
