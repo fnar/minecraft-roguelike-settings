@@ -1,4 +1,4 @@
 {
   "name": "layout:scatter_large",
-  "scatter": [50, 50, 50, 50, 50]
+  "scatter": [32, 32, 32, 32, 32]
 }
