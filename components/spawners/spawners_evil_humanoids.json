@@ -9,8 +9,7 @@
       "potentials": [
         {"name": "minecraft:evocation_illager"},
         {"name": "minecraft:illusion_illager", "nbt": "{HandItems:[{id:\"minecraft:bow\",Count:1},{}]}"},
-        {"name": "minecraft:witch"},
-        {"name": "minecraft:villager"}
+        {"name": "minecraft:witch"}
       ]
     },
     {
