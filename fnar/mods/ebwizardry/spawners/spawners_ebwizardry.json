@@ -1,0 +1,43 @@
+{
+  "name": "spawners:ebwizardry",
+  "spawners": [
+    {
+      "level": [0,1,2,3,4],
+      "potentials": [
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots\",Count:1}, {id:\"ebwizardry:wizard_leggings\",Count:1}, {id:\"ebwizardry:wizard_robe\",Count:1}, {id:\"ebwizardry:wizard_hat\",Count:1} ], HandItems:[ {id:\"ebwizardry:magic_wand\",Count:1},{} ], spells:[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]}"
+        }
+      ]
+    },
+    {
+      "level": [1,2,3,4],
+      "potentials": [
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots\",Count:1}, {id:\"ebwizardry:wizard_leggings\",Count:1}, {id:\"ebwizardry:wizard_robe\",Count:1}, {id:\"ebwizardry:wizard_hat\",Count:1} ], HandItems:[ {id:\"ebwizardry:magic_wand\",Count:1},{} ], spells:[1,2,3,4,18]}"
+        },
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots_ice\",Count:1}, {id:\"ebwizardry:wizard_leggings_ice\",Count:1}, {id:\"ebwizardry:wizard_robe_ice\",Count:1}, {id:\"ebwizardry:wizard_hat_ice\",Count:1} ], HandItems:[ {id:\"ebwizardry:apprentice_ice_wand\",Count:1},{} ], spells:[1,4,5,18,27,28,29,30,31,32]}"
+        },
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots_fire\",Count:1}, {id:\"ebwizardry:wizard_leggings_fire\",Count:1}, {id:\"ebwizardry:wizard_robe_fire\",Count:1}, {id:\"ebwizardry:wizard_hat_fire\",Count:1} ], HandItems:[ {id:\"ebwizardry:apprentice_fire_wand\",Count:1},{} ], spells:[1,2,3,18,21,22,23,24,25,26]}"
+        },
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots_lightning\",Count:1}, {id:\"ebwizardry:wizard_leggings_lightning\",Count:1}, {id:\"ebwizardry:wizard_robe_lightning\",Count:1}, {id:\"ebwizardry:wizard_hat_lightning\",Count:1} ], HandItems:[ {id:\"ebwizardry:apprentice_lightning_wand\",Count:1},{} ], spells:[1,6,7,18,33,34,35,36,37,38]}"
+        },
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots_earth\",Count:1}, {id:\"ebwizardry:wizard_leggings_earth\",Count:1}, {id:\"ebwizardry:wizard_robe_earth\",Count:1}, {id:\"ebwizardry:wizard_hat_earth\",Count:1} ], HandItems:[ {id:\"ebwizardry:apprentice_earth_wand\",Count:1},{} ], spells:[1,10,11,12,18,46,47,48,49,50,51,52,53,54]}"
+        },
+        {
+          "name": "ebwizardry:evil_wizard",
+          "nbt": "{ArmorItems:[{id:\"ebwizardry:wizard_boots_necromancy\",Count:1}, {id:\"ebwizardry:wizard_leggings_necromancy\",Count:1}, {id:\"ebwizardry:wizard_robe_necromancy\",Count:1}, {id:\"ebwizardry:wizard_hat_necromancy\",Count:1} ], HandItems:[ {id:\"ebwizardry:apprentice_necromancy_wand\",Count:1},{} ], spells:[1,8,9,18,39,40,41,42,43,44,45]}"
+        }
+      ]
+    }
+  ]
+}
