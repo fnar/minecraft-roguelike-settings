@@ -117,6 +117,13 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Garnet\",\"Gemstone\",\"Rare\",\"#96\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Sapphire\",\"Gemstone\",\"Rare\",\"#97\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Ruby\",\"Gemstone\",\"Rare\",\"#98\"]}}"}, "weight": 1}
+        
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Coal\",\"Ore\",\"Common\",\"#99\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Iron\",\"Ore\",\"Common\",\"#100\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gold\",\"Ore\",\"Uncommon\",\"#101\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Redstone\",\"Ore\",\"Uncommon\",\"#102\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Lapis\",\"Ore\",\"Rare\",\"#103\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Diamond\",\"Ore\",\"Rare\",\"#104\"]}}"}, "weight": 1}
       ],
       "each": false,
       "quantity": 1
