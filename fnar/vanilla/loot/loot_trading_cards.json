@@ -82,49 +82,49 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Enderdragon\",\"§8Boss Mob\",\"§6Legendary\",\"§4#§c63\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Elder Gaurdian\",\"§8Boss Mob\",\"§5Epic\",\"§4#§c64\"]}}"}, "weight": 1},
         
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Armorsmith\",\"§8Profession\",\"§aUncommon\",\"§4#§c64\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Armorsmith\",\"§8Profession\",\"§7Common\",\"§4#§c64\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Butcher\",\"§8Profession\",\"§7Common\",\"§4#§c65\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Cartographer\",\"§8Profession\",\"§aUncommon\",\"§4#§c67\"]}}"}, "weight": 3},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Cleric\",\"§8Profession\",\"§3Rare\",\"§4#§c68\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Cleric\",\"§8Profession\",\"§aUncommon\",\"§4#§c68\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Farmer\",\"§8Profession\",\"§7Common\",\"§4#§c69\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fisher\",\"§8Profession\",\"§7Common\",\"§4#§c70\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fletcher\",\"§8Profession\",\"§7Common\",\"§4#§c71\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fletcher\",\"§8Profession\",\"§aUncommon\",\"§4#§c71\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Leatherworker\",\"§8Profession\",\"§7Common\",\"§4#§c72\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Librarian\",\"§8Profession\",\"§3Rare\",\"§4#§c73\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Mason\",\"§8Profession\",\"§7Common\",\"§4#§c74\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Nitwit\",\"§8Profession\",\"§7Common\",\"§4#§c75\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Shepherd\",\"§8Profession\",\"§7Common\",\"§4#§c76\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Librarian\",\"§8Profession\",\"§aUncommon\",\"§4#§c73\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Mason\",\"§8Profession\",\"§aUncommon\",\"§4#§c74\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Nitwit\",\"§8Profession\",\"§6Legendary\",\"§4#§c75\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Shepherd\",\"§8Profession\",\"§aUncommon\",\"§4#§c76\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Toolsmith\",\"§8Profession\",\"§aUncommon\",\"§4#§c77\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Weaposmith\",\"§8Profession\",\"§aUncommon\",\"§4#§c78\"]}}"}, "weight": 3},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Dwarf\",\"§8Humanoid\",\"§7Common\",\"§4#§c79\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Dwarf\",\"§8Humanoid\",\"§3Rare\",\"§4#§c79\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Elf\",\"§8Humanoid\",\"§7Common\",\"§4#§c80\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fairy\",\"§8Humanoid\",\"§7Common\",\"§4#§c81\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gnome\",\"§8Humanoid\",\"§7Common\",\"§4#§c82\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fairy\",\"§8Humanoid\",\"§aUncommon\",\"§4#§c81\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gnome\",\"§8Humanoid\",\"§3Rare\",\"§4#§c82\"]}}"}, "weight": 5},
         
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Orc\",\"§8Beast\",\"§7Common\",\"§4#§c83\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Goblin\",\"§8Beast\",\"§7These small green theives live in tribes of 4-9 individual goblins near\", \"§7civilized areas which they raid for resources.\",\"§7Common\",\"§4#§c84\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Kobold\",\"§8Beast\",\"§7Kobolds are small dragon-like creatures have scales and horns but lack the majestic\",\"§7wings of their larger counterparts.\",\"§7Common\",\"§4#§c85\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Troll\",\"§8Beast\",\"§7Trolls live in caves, mountains, and other isolated areas in small family units.\",\"§7They are large creatures that are not friendly towards humans.\",\"§7Common\",\"§4#§c86\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aGorgon\",\"§8Beast\",\"§7Gorgons are Hidious green snake creatures with a long snake tail instead of legs\",\"§7and small snake heads for hair. A single gaze from one of these creatures turns you into stone.\",\"§aUncommon\",\"§4#§c87\"]}}"}, "weight": 3},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Minotaur\",\"§8Beast\",\"§7The Minotaur is a half bull, half-human creature trapped in the labyrinth due to.\",\"§7being too much of a monster to live in its city.\",\"§3Rare\",\"§4#§c88\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Kobold\",\"§8Beast\",\"§7Kobolds are small dragon-like creatures have scales and horns but lack the majestic\",\"§7wings of their larger counterparts.\",\"§aUncommon\",\"§4#§c85\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Troll\",\"§8Beast\",\"§7Trolls live in caves, mountains, and other isolated areas in small family units.\",\"§7They are large creatures that are not friendly towards humans.\",\"§aUncommon\",\"§4#§c86\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aGorgon\",\"§8Beast\",\"§7Gorgons are Hidious green snake creatures with a long snake tail instead of legs\",\"§7and small snake heads for hair. A single gaze from one of these creatures turns you into stone.\",\"§3Rare\",\"§4#§c87\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Minotaur\",\"§8Beast\",\"§7The Minotaur is a half bull, half-human creature trapped in the labyrinth due to.\",\"§7being too much of a monster to live in its city.\",\"§5Epic\",\"§4#§c88\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Sea Serpent\",\"§8Beast\",\"§7This long scaley creature lives in the dark depths of the\",\"§7ocean and have a range of abilities ranging from blasting boiling water\",\"§7at their foes to spitting globs of acid able to melt wood and even steel.\",\"§3Rare\",\"§4#§c90\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Fire Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses fire to burn its enemies and wears scales colored a deep shade of red.\",\"§3Rare\",\"§4#§c91\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ice Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses icy breath to freeze its enemies and has several sharp spikes covering their backs..\",\"§3Rare\",\"§4#§c92\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Wyrm\",\"§8Beast\",\"§7These ancient snakelike creatures fly around with wings,\",\"§7kill with huge fangs or claws, and have nigh impenetrable scales.\",\"§3Rare\",\"§4#§c89\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Fire Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses fire to burn its enemies and wears scales colored a deep shade of red.\",\"§5Epic\",\"§4#§c91\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ice Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses icy breath to freeze its enemies and has several sharp spikes covering their backs..\",\"§5Epic\",\"§4#§c92\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Wyrm\",\"§8Beast\",\"§7These ancient snakelike creatures fly around with wings,\",\"§7kill with huge fangs or claws, and have nigh impenetrable scales.\",\"§6Legendary\",\"§4#§c89\"]}}"}, "weight": 1},
 
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Amethyst\",\"§8Gemstone\",\"§3Rare\",\"§4#§c93\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Diamond\",\"§8Gemstone\",\"§3Rare\",\"§4#§c94\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Emerald\",\"§8Gemstone\",\"§3Rare\",\"§4#§c95\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Diamond\",\"§8Gemstone\",\"§5Epic\",\"§4#§c94\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Emerald\",\"§8Gemstone\",\"§6Legendary\",\"§4#§c95\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Garnet\",\"§8Gemstone\",\"§3Rare\",\"§4#§c96\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Sapphire\",\"§8Gemstone\",\"§3Rare\",\"§4#§c97\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ruby\",\"§8Gemstone\",\"§3Rare\",\"§4#§c98\"]}}"}, "weight": 1}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Sapphire\",\"§8Gemstone\",\"§5Epic\",\"§4#§c97\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ruby\",\"§8Gemstone\",\"§5Epic\",\"§4#§c98\"]}}"}, "weight": 1}
               // May add more ore types
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Coal\",\"§8Ore\",\"§7Common\",\"§4#§c99\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Iron\",\"§8Ore\",\"§7Common\",\"§4#§c100\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Copper\",\"§8Ore\",\"§7Common\",\"§4#§c101\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aGold\",\"§8Ore\",\"§aUncommon\",\"§4#§c102\"]}}"}, "weight": 3}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aSilver\",\"§8Ore\",\"§aUncommon\",\"§4#§c103\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Iron\",\"§8Ore\",\"§aUncommon\",\"§4#§c100\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Copper\",\"§8Ore\",\"§aUncommon\",\"§4#§c101\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aGold\",\"§8Ore\",\"§3Rare\",\"§4#§c102\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aSilver\",\"§8Ore\",\"§3Rare\",\"§4#§c103\"]}}"}, "weight": 3}
       ],
       "each": false,
       "quantity": 1
