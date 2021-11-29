@@ -1,21 +1,24 @@
 // Rarity color formatting : §7Common §aUncommon §3Rare §5Epic §6Legendary
 // Weight format : Common=9, Uncommon=7, Rare=5, Epic=3, Legendary=1 (may make Legendary cards too rare, requires testing later)
-// Other text color formatting : Card name: same code as rarity, Card type: §8TYPE, Card number: §4#§cNUM
+// Other text color formatting : Card name: same code as rarity, Card type: §8TYPE, Card number: §4#§cNUM, Descriptions: §7DESCRIPTION
+// Text order formatting : Card name, Card Type, Description, Rarity
+// Empty Card :        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§xNAME\",\"§8TYPE\",\"§7DESCRIPTION\",\"§xRARITY\",\"§4#§cNUM\"]}}"}, "weight": see weight format},
+// Empty Card No Num Format :        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§xNAME\",\"§8TYPE\",\"§7DESCRIPTION\",\"§xRARITY\",\"#NUM\"]}}"}, "weight": see weight format},
 {
   "name": "fnar:loot_trading_cards",
   "lootRules": [
     {
       "level": [4],
       "loot": [
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aDesert\",\"§8Land\",\"§aUncommon\",\"#1\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Forest\",\"§8Land\",\"§7Common\",\"#2\"]}}"}, "weight": 9},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aJungle\",\"§8Land\",\"§aUncommon\",\"#3\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Mountain\",\"§8Land\",\"§7Common\",\"#4\"]}}"}, "weight": 9},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Ocean\",\"§8Land\",\"§7Common\",\"#5\"]}}"}, "weight": 9},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Plains\",\"§8Land\",\"§7Common\",\"#6\"]}}"}, "weight": 9},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7River\",\"§8Land\",\"§7Common\",\"#7\"]}}"}, "weight": 9},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aSwamp\",\"§8Land\",\"§aUncommon\",\"#8\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Tundra\",\"§8Land\",\"§3Rare\",\"#9\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aDesert\",\"§8Land\",\"§7An arid, sandy wasteland populated with unfriendly cacti and small animals that are hidden away.\",\"§aUncommon\",\"#1\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Forest\",\"§8Land\",\"§7The rolling hills and shady groves make a collection of beutiful landscapes in this biome.\",\"§7Common\",\"#2\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aJungle\",\"§8Land\",\"§7Monstrous creatures and even murderous plants inhabit this hot and humid landscape that is\",\"§7densely populated with many trees and shrubs.\",\"§aUncommon\",\"#3\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Mountain\",\"§8Land\",\"§7The tall peaks, shearing cliffs, and bone-chilling temperatures of this biome allow for only\",\"§7the most specially adapted creatures to survive and thrive.\",\"§7Common\",\"#4\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Ocean\",\"§8Land\",\"§7Seemingly endless expanses of water sets this land feature apart but don't be fooled by the\",\"§7repeating patterns of the waves because the fish inhabiting it are innumeral in number.\",\"§7Common\",\"#5\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Plains\",\"§8Land\",\"§7Sunny, rolling hills going on for miles pairs great with warm breezes and calming sounds.\",\"§7Common\",\"#6\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7River\",\"§8Land\",\"§7When compared to the ocean rivers are fast moving and destructive. Although slowly, they can\",\"§7cleave through solid rock allowing them to transform even the tallest mountains into valleys.\",\"§7Common\",\"#7\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aSwamp\",\"§8Land\",\"§7Swamps are an amalgamation of water and forest, containing dark, dirty water that hides terrifying predators.\",\"§aUncommon\",\"#8\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Tundra\",\"§8Land\",\"§7In some ways Tundras are the polar opposite of deserts but they are more similar that you might think.\",\"§7Both contain extreme temperatures, lack of water, and flat terraian for miles and miles.\",\"§3Rare\",\"#9\"]}}"}, "weight": 5},
 
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Air\",\"§8Element\",\"§7Common\",\"#10\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Fire\",\"§8Element\",\"§7Common\",\"#11\"]}}"}, "weight": 9},
@@ -118,17 +121,17 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§6Emerald\",\"§8Gemstone\",\"§6Legendary\",\"#95\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Garnet\",\"§8Gemstone\",\"§3Rare\",\"#96\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Sapphire\",\"§8Gemstone\",\"§5Epic\",\"#97\"]}}"}, "weight": 3},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Ruby\",\"§8Gemstone\",\"§5Epic\",\"#98\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Ruby\",\"§8Gemstone\",\"§5Epic\",\"#98\"]}}"}, "weight": 3},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Coal\",\"§8Ore\",\"§7Common\",\"#99\"]}}"}, "weight": 9}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aIron\",\"§8Ore\",\"§aUncommon\",\"#100\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aCopper\",\"§8Ore\",\"§aUncommon\",\"#101\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aTin\",\"§8Ore\",\"§aUncommon\",\"#102\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aLead\",\"§8Ore\",\"§aUncommon\",\"#103\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aAluminum\",\"§8Ore\",\"§aUncommon\",\"#104\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gold\",\"§8Ore\",\"§3Rare\",\"#105\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Silver\",\"§8Ore\",\"§3Rare\",\"#106\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Platinum\",\"§8Ore\",\"§3Rare\",\"#107\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Coal\",\"§8Ore\",\"§7Common\",\"#99\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aIron\",\"§8Ore\",\"§aUncommon\",\"#100\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aCopper\",\"§8Ore\",\"§aUncommon\",\"#101\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aTin\",\"§8Ore\",\"§aUncommon\",\"#102\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aLead\",\"§8Ore\",\"§aUncommon\",\"#103\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aAluminum\",\"§8Ore\",\"§aUncommon\",\"#104\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gold\",\"§8Ore\",\"§3Rare\",\"#105\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Silver\",\"§8Ore\",\"§3Rare\",\"#106\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Platinum\",\"§8Ore\",\"§3Rare\",\"#107\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Iridium\",\"§8Ore\",\"§5Epic\",\"#108\"]}}"}, "weight": 3}
 
       ],
