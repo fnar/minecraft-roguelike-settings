@@ -119,15 +119,17 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Garnet\",\"§8Gemstone\",\"§3Rare\",\"#96\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Sapphire\",\"§8Gemstone\",\"§5Epic\",\"#97\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Ruby\",\"§8Gemstone\",\"§5Epic\",\"#98\"]}}"}, "weight": 3}
-              // May add more ore types
+
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Coal\",\"§8Ore\",\"§7Common\",\"#99\"]}}"}, "weight": 9}
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aIron\",\"§8Ore\",\"§aUncommon\",\"#100\"]}}"}, "weight": 7}
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aCopper\",\"§8Ore\",\"§aUncommon\",\"#101\"]}}"}, "weight": 7}
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aTin\",\"§8Ore\",\"§aUncommon\",\"#102\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aLead\",\"§8Ore\",\"§aUncommon\",\"#101\"]}}"}, "weight": 7}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gold\",\"§8Ore\",\"§3Rare\",\"#103\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Silver\",\"§8Ore\",\"§3Rare\",\"#104\"]}}"}, "weight": 5}
-
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aLead\",\"§8Ore\",\"§aUncommon\",\"#103\"]}}"}, "weight": 7}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aAluminum\",\"§8Ore\",\"§aUncommon\",\"#104\"]}}"}, "weight": 7}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gold\",\"§8Ore\",\"§3Rare\",\"#105\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Silver\",\"§8Ore\",\"§3Rare\",\"#106\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Platinum\",\"§8Ore\",\"§3Rare\",\"#107\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Iridium\",\"§8Ore\",\"§5Epic\",\"#108\"]}}"}, "weight": 3}
 
       ],
       "each": false,
