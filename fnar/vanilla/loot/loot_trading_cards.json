@@ -21,12 +21,12 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Spirit\",\"§8Element\",\"§3Rare\",\"§4#§c14\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Electric\",\"§8Element\",\"§aUncommon\",\"§4#§c15\"]}}"}, "weight": 3},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Aqua\",\"§8Elemental\",\"§7Common\",\"§4#§c16\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Flame\",\"§8Elemental\",\"§7Common\",\"§4#§c17\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Lightning\",\"§8Elemental\",\"§aUncommon\",\"§4#§c18\"]}}"}, "weight": 3},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Soul\",\"§8Elemental\",\"§3Rare\",\"§4#§c19\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Terra\",\"§8Elemental\",\"§7Common\",\"§4#§c20\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Wind\",\"§8Elemental\",\"§7Common\",\"§4#§c21\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Aqua Golem\",\"§8Golem\",\"§7Common\",\"§4#§c16\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Flame Golem\",\"§8Golem\",\"§7Common\",\"§4#§c17\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Electricity Golem\",\"§8Golem\",\"§aUncommon\",\"§4#§c18\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Soul Golem\",\"§8Golem\",\"§3Rare\",\"§4#§c19\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Terra Golem\",\"§8Golem\",\"§7Common\",\"§4#§c20\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Wind Golem\",\"§8Golem\",\"§7Common\",\"§4#§c21\"]}}"}, "weight": 5},
 
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Sun\",\"§8Heavens\",\"§aUncommon\",\"§4#§c22\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Full Moon\",\"§8Heavens\",\"§3Rare\",\"§4#§c23\"]}}"}, "weight": 1},
