@@ -8,7 +8,7 @@
   "name": "fnar:loot_trading_cards",
   "lootRules": [
     {
-      "level": [4],
+      "level": [4], // Thinking about making the cards available for floor 4 instead of just floor 5 since some of these cards are so rare
       "loot": [
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aDesert\",\"§8Land\",\"§7An arid, sandy wasteland populated with unfriendly cacti and small animals that are hidden away.\",\"§aUncommon\",\"#1\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Forest\",\"§8Land\",\"§7The rolling hills and shady groves make a collection of beutiful landscapes in this biome.\",\"§7Common\",\"#2\"]}}"}, "weight": 9},
@@ -56,26 +56,28 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aSquid\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#39\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aTurtle\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#40\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Fox\",\"§8Passive Mob\",\"§7\",\"§3Rare\",\"#41\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aVillager\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#57\"]}}"}, "weight": 7},
         
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Wolf\",\"§8Tameable Mob\",\"§7\",\"§5Epic\",\"#42\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ocelot\",\"§8Tameable Mob\",\"§7\",\"§3Rare\",\"#43\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Parrot\",\"§8Tameable Mob\",\"§7\",\"§3Rare\",\"#44\"]}}"}, "weight": 5},
+        
               // Might seperate all the types of pandas into their own type
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Panda\",\"§8Neutral Mob\",\"§7\",\"§3Rare\",\"#45\"]}}"}, "weight": 5},
-
+        
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aZombified Piglin\",\"§8Nuetral Mob\",\"§7\",\"§aUncommon\",\"#51\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Enderman\",\"§8Neutral Mob\",\"§7\",\"§3Rare\",\"#55\"]}}"}, "weight": 5},
+        
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Zoglin\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#46\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Zombie\",\"§8Hostile Mob\",\"§7\",\"§7Common\",\"#46\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Skeleton\",\"§8Hostile Mob\",\"§7\",\"§7Common\",\"#47\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aCreeper\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#48\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Spider\",\"§8Hostile Mob\",\"§7\",\"§7Common\",\"#49\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Slime\",\"§8Hostile Mob\",\"§7\",\"§3Rare\",\"#50\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aZombified Piglin\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#51\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aGhast\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#52\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aBlaze\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#53\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aSilverfish\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#54\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Enderman\",\"§8Neutral Mob\",\"§7\",\"§3Rare\",\"#55\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Phantom\",\"§8Hostile Mob\",\"§7\",\"§3Rare\",\"#56\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aVillager\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#57\"]}}"}, "weight": 7},
-
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aWitch\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#58\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aEndermite\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#59\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Shulker\",\"§8Hostile Mob\",\"§7\",\"§3Rare\",\"#60\"]}}"}, "weight": 5},
@@ -100,10 +102,10 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aToolsmith\",\"§8Profession\",\"§7\",\"§aUncommon\",\"#77\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aWeaposmith\",\"§8Profession\",\"§7\",\"§aUncommon\",\"#78\"]}}"}, "weight": 7},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Dwarf\",\"§8Humanoid\",\"§7\",\"§3Rare\",\"#79\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Elf\",\"§8Humanoid\",\"§7\",\"§7Common\",\"#80\"]}}"}, "weight": 9},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Dwarf\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#79\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Elf\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#80\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aFairy\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#81\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gnome\",\"§8Humanoid\",\"§7\",\"§3Rare\",\"#82\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gnome\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#82\"]}}"}, "weight": 7},
         
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Orc\",\"§8Beast\",\"§7\",\"§7Common\",\"#83\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Goblin\",\"§8Beast\",\"§7These small green theives live in tribes of 4-9 individual goblins near\", \"§7civilized areas which they raid for resources.\",\"§7Common\",\"#84\"]}}"}, "weight": 5},
@@ -133,7 +135,7 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Silver\",\"§8Ore\",\"§7\",\"§3Rare\",\"#106\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Platinum\",\"§8Ore\",\"§7\",\"§3Rare\",\"#107\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Iridium\",\"§8Ore\",\"§7\",\"§5Epic\",\"#108\"]}}"}, "weight": 3}
-
+              // Future possible card types : Cosmic (Star, Moon, Planet, Etc), Plant (Tree, Grass, Flower, Etc), Combat (Archer, Mage, Knight, Berzerker, etc), Weapons (Sword, Knive, Bow, Etc), Food (Salad, Steak, Porkchop, Etc)
       ],
       "each": false,
       "quantity": 1
