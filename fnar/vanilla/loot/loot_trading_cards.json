@@ -100,16 +100,15 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gnome\",\"Humanoid\",\"Common\",\"#82\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Orc\",\"Humanoid\",\"Common\",\"#83\"]}}"}, "weight": 5},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Goblin\",\"Beast\",\"Common\",\"#84\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Kobold\",\"Beast\",\"Common\",\"#85\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Troll\",\"Beast\",\"Common\",\"#86\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gorgon\",\"Beast\",\"Common\",\"#87\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Minotaur\",\"Beast\",\"Common\",\"#88\"]}}"}, "weight": 5},
-
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Wyrm\",\"Beast\",\"Rare\",\"#89\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Sea Serpent\",\"Beast\",\"Rare\",\"#90\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fire Dragon\",\"Beast\",\"Rare\",\"#91\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Ice Dragon\",\"Beast\",\"Rare\",\"#92\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Goblin\",\"§8Beast\",\"§7These small green theives live in tribes of 4-9 individual goblins near\", \"§7civilized areas which they raid for resources.\",\"§7Common\",\"§4#§c84\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Kobold\",\"§8Beast\",\"§7Kobolds are small dragon-like creatures have scales and horns but lack the majestic\",\"§7wings of their larger counterparts.\",\"§7Common\",\"§4#§c85\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Troll\",\"§8Beast\",\"§7Trolls live in caves, mountains, and other isolated areas in small family units.\",\"§7They are large creatures that are not friendly towards humans.\",\"§7Common\",\"§4#§c86\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aGorgon\",\"§8Beast\",\"§7Gorgons are Hidious green snake creatures with a long snake tail instead of legs\",\"§7and small snake heads for hair. A single gaze from one of these creatures turns you into stone.\",\"§aUncommon\",\"§4#§c87\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Minotaur\",\"§8Beast\",\"§7The Minotaur is a half bull, half-human creature trapped in the labyrinth due to.\",\"§7being too much of a monster to live in its city.\",\"§3Rare\",\"§4#§c88\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Sea Serpent\",\"§8Beast\",\"§7This long scaley creature lives in the dark depths of the\",\"§7ocean and have a range of abilities ranging from blasting boiling water\",\"§7at their foes to spitting globs of acid able to melt wood and even steel.\",\"§3Rare\",\"§4#§c90\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Fire Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses fire to burn its enemies and wears scales colored a deep shade of red.\",\"§3Rare\",\"§4#§c91\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ice Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses icy breath to freeze its enemies and has several sharp spikes covering their backs..\",\"§3Rare\",\"§4#§c92\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Wyrm\",\"§8Beast\",\"§7These ancient snakelike creatures fly around with wings,\",\"§7kill with huge fangs or claws, and have nigh impenetrable scales.\",\"§3Rare\",\"§4#§c89\"]}}"}, "weight": 1},
 
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Amethyst\",\"Gemstone\",\"Rare\",\"#93\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Diamond\",\"Gemstone\",\"Rare\",\"#94\"]}}"}, "weight": 1},
@@ -120,10 +119,9 @@
         
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Coal\",\"Ore\",\"Common\",\"#99\"]}}"}, "weight": 5}
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Iron\",\"Ore\",\"Common\",\"#100\"]}}"}, "weight": 5}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gold\",\"Ore\",\"Uncommon\",\"#101\"]}}"}, "weight": 3}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Redstone\",\"Ore\",\"Uncommon\",\"#102\"]}}"}, "weight": 3}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Lapis\",\"Ore\",\"Rare\",\"#103\"]}}"}, "weight": 3}
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Diamond\",\"Ore\",\"Rare\",\"#104\"]}}"}, "weight": 1}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Copper\",\"Ore\",\"Common\",\"#101\"]}}"}, "weight": 5}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gold\",\"Ore\",\"Uncommon\",\"#102\"]}}"}, "weight": 3}
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Silver\",\"Ore\",\"Uncommon\",\"#103\"]}}"}, "weight": 3}
       ],
       "each": false,
       "quantity": 1
