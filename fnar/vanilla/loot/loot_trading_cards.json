@@ -1,3 +1,6 @@
+// Rarity color formatting : §7Common §aUncommon §3Rare §5Epic §6Legendary
+// Weight format : Common=9, Uncommon=7, Rare=5, Epic=3, Legendary=1 (may make Legendary cards too rare, requires testing later)
+// Other text color formatting : Card name: same code as rarity, Card type: §8TYPE, Card number: §4#§cNUM
 {
   "name": "fnar:loot_trading_cards",
   "lootRules": [
