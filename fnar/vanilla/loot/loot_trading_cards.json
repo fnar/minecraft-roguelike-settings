@@ -97,9 +97,8 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Elf\",\"§8Humanoid\",\"§7Common\",\"§4#§c80\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Fairy\",\"§8Humanoid\",\"§7Common\",\"§4#§c81\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Gnome\",\"§8Humanoid\",\"§7Common\",\"§4#§c82\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Orc\",\"§8Humanoid\",\"§7Common\",\"§4#§c83\"]}}"}, "weight": 5},
-
-
+        
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"Orc\",\"§8Beast\",\"§7Common\",\"§4#§c83\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Goblin\",\"§8Beast\",\"§7These small green theives live in tribes of 4-9 individual goblins near\", \"§7civilized areas which they raid for resources.\",\"§7Common\",\"§4#§c84\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Kobold\",\"§8Beast\",\"§7Kobolds are small dragon-like creatures have scales and horns but lack the majestic\",\"§7wings of their larger counterparts.\",\"§7Common\",\"§4#§c85\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Troll\",\"§8Beast\",\"§7Trolls live in caves, mountains, and other isolated areas in small family units.\",\"§7They are large creatures that are not friendly towards humans.\",\"§7Common\",\"§4#§c86\"]}}"}, "weight": 5},
