@@ -103,10 +103,10 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aToolsmith\",\"§8Profession\",\"§7\",\"§aUncommon\",\"#77\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aWeaposmith\",\"§8Profession\",\"§7\",\"§aUncommon\",\"#78\"]}}"}, "weight": 7},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Dwarf\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#79\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Elf\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#80\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aFairy\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#81\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gnome\",\"§8Humanoid\",\"§7\",\"§aUncommon\",\"#82\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Dwarf\",\"§8Humanoid\",\"§7Dwarves are short humanoid creatures that are very good at forging and building a wide range of useful tools, armor, and other things.\",\"§aUncommon\",\"#79\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Elf\",\"§8Humanoid\",\"§7Elves live for an incredibly long time and are set apart from other humanoid creatures by their long, pointy ears. They are generally very proficient with bows and straight swords.\",\"§aUncommon\",\"#80\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aFairy\",\"§8Humanoid\",\"§7Fairies are relatively small and have small wings, similar to butterflies. They are generally magical and very powerful.\",\"§aUncommon\",\"#81\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gnome\",\"§8Humanoid\",\"§7Gnomes are visually similar to dwarves but the difference is that gnomes prefer to stay hidden underground, avoiding human interaction\",\"§aUncommon\",\"#82\"]}}"}, "weight": 7},
         
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Orc\",\"§8Beast\",\"§7\",\"§7Common\",\"#83\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Goblin\",\"§8Beast\",\"§7These small green theives live in tribes of 4-9 individual goblins near\", \"§7civilized areas which they raid for resources.\",\"§7Common\",\"#84\"]}}"}, "weight": 5},
@@ -119,12 +119,12 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ice Dragon\",\"§8Beast\",\"§7This type of dragon primarily uses icy breath to freeze its enemies and has several sharp spikes covering their backs..\",\"§5Epic\",\"#91\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Wyrm\",\"§8Beast\",\"§7These ancient snakelike creatures fly around with wings,\",\"§7kill with huge fangs or claws, and have nigh impenetrable scales.\",\"§6Legendary\",\"#92\"]}}"}, "weight": 1},
 
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Amethyst\",\"§8Gemstone\",\"§7\",\"§3Rare\",\"#93\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Diamond\",\"§8Gemstone\",\"§7\",\"§5Epic\",\"#94\"]}}"}, "weight": 3},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§6Emerald\",\"§8Gemstone\",\"§7\",\"§6Legendary\",\"#95\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Garnet\",\"§8Gemstone\",\"§7\",\"§3Rare\",\"#96\"]}}"}, "weight": 5},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Sapphire\",\"§8Gemstone\",\"§7\",\"§5Epic\",\"#97\"]}}"}, "weight": 3},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Ruby\",\"§8Gemstone\",\"§7\",\"§5Epic\",\"#98\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Amethyst\",\"§8Gemstone\",\"§7Amethyst sparkles a brilliant shade of purple and can be carved into many shapes.\",\"§3Rare\",\"#93\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Diamond\",\"§8Gemstone\",\"§7Diamond is one of the hardest minerals, at a mohs hardness scale rating of 10,\",\"§7meaning it can only be scratched by itself.\",\"§5Epic\",\"#94\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§6Emerald\",\"§8Gemstone\",\"§7Emeralds, unlike diamonds, are relatively soft compared to other precious gemstones.\",\"§7Aside from this, they are a beautiful shade of green that is highly sought after.\"§6Legendary\",\"#95\"]}}"}, "weight": 1},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Garnet\",\"§8Gemstone\",\"§7Colored in a deep shade of red, garnet gemstones were used as protective charms and wards.\",\"§3Rare\",\"#96\"]}}"}, "weight": 5},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Sapphire\",\"§8Gemstone\",\"§7Sapphires actually contain trace amounts of iron and\",\"§7titanium. Sapphires are also very hard, with a 9 on the mohs hardness scale.\",\"§5Epic\",\"#97\"]}}"}, "weight": 3},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Ruby\",\"§8Gemstone\",\"§7Rubies are similar to garnet in color but rubies are a much lighter shade of red.\",\"§5Epic\",\"#98\"]}}"}, "weight": 3},
 
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Coal\",\"§8Ore\",\"§7\",\"§7Common\",\"#99\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aIron\",\"§8Ore\",\"§7\",\"§aUncommon\",\"#100\"]}}"}, "weight": 7},
