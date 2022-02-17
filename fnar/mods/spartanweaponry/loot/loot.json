@@ -6,7 +6,7 @@
       "level": [0, 1, 2],
       "each": true,
       "type": "WEAPONS",
-      "quantity": 1,
+      "quantity": 2,
       "loot": [
         {"data": {"name": "minecraft:stick"}, "weight": 50},
 
@@ -65,7 +65,7 @@
       "level": [1, 2, 3],
       "each": true,
       "type": "WEAPONS",
-      "quantity": 1,
+      "quantity": 2,
       "loot": [
         {"data": {"name": "minecraft:stick"}, "weight": 50},
 
@@ -141,7 +141,7 @@
       "level": [3, 4],
       "each": true,
       "type": "WEAPONS",
-      "quantity": 1,
+      "quantity": 2,
       "loot": [
         {"data": {"name": "minecraft:stick"}, "weight": 50},
 

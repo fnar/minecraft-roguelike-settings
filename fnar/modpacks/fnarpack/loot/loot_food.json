@@ -1,0 +1,27 @@
+{
+  "name": "fnarpack:loot_food",
+  "requires": [
+    "simpledifficulty"
+  ],
+  "lootRules": [
+    {
+      "level": [0, 1, 2, 3, 4],
+      "each": true,
+      "type": "FOOD",
+      "quantity": 3,
+      "loot": [
+        {"data": {"name": "simpledifficulty:purified_water_bottle", "meta": 0, "min": 1, "max": 3}, "weight": 10},
+        {"data": {"name": "simpledifficulty:juice", "meta": 0}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 1}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 2}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 3}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 4}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 5}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 6}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 7}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 8}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 9}}
+      ]
+    }
+  ]
+}

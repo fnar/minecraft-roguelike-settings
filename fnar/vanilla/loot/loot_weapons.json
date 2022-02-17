@@ -12,8 +12,8 @@
       "each": true,
       "quantity": 3,
       "loot": [
-        {"data": {"name": "minecraft:arrow", "min": 4, "max": 8}, "weight": 1},
-        {"data": {"name": "minecraft:arrow", "min": 4, "max": 8}, "weight": 1},
+        {"data": {"name": "minecraft:arrow", "min": 16, "max": 16}, "weight": 1},
+        {"data": {"name": "minecraft:arrow", "min": 32, "max": 32}, "weight": 1},
         {"data": {"type": "potion", "name": "strength"}, "weight": 1},
         {"data": {"type": "potion", "name": "swiftness"}, "weight": 1},
         {"data": {"type": "weapon", "level": 0}, "weight": 1},

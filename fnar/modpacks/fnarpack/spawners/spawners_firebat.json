@@ -1,0 +1,6 @@
+{
+  "name": "fnarpack:firebat_spawner",
+  "spawners": [
+    {"level": [0,1,2,3,4], "potentials": [{"name": "thaumcraft:firebat"}]}
+  ]
+}

@@ -55,10 +55,12 @@
     {
       "level": [0, 1, 2, 3, 4],
       "type": "TOOLS",
-      "each": false,
+      "each": true,
       "quantity": 1,
       "loot": [
-        {"data": {"name": "ebwizardry:identification_scroll"}, "weight": 1},
+        {"data": {"name": "minecraft:stick"}, "weight": 6},
+
+        {"data": {"name": "ebwizardry:identification_scroll"}, "weight": 2},
         {"data": {"name": "ebwizardry:firebomb"}, "weight": 1},
         {"data": {"name": "ebwizardry:spark_bomb"}, "weight": 1},
         {"data": {"name": "ebwizardry:poison_bomb"}, "weight": 1},
@@ -68,7 +70,7 @@
     {
       "level": [1, 2, 3, 4],
       "type": "WEAPONS",
-      "each": false,
+      "each": true,
       "quantity": 1,
       "loot": [
         {"data": {"name": "minecraft:stick"}, "weight": 32},

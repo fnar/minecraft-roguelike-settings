@@ -1,0 +1,19 @@
+{
+  "name": "rooms:neutral",
+  "rooms": [
+    {"level": [0], "frequency": "single", "type": "STORAGE", "count": 1},
+    {"level": [1], "frequency": "single", "type": "FIRE", "count": 1},
+    {"level": [2], "frequency": "single", "type": "MESS", "count": 1},
+    {"level": [3], "frequency": "single", "type": "DARKHALL", "count": 1},
+    {"level": [4], "frequency": "single", "type": "PLATFORMS", "count": 1},
+
+    {"level": [0,1,2,3,4], "frequency": "random", "type": "CORNER", "weight": 5},
+    {"level": [0,1,2,3,4], "frequency": "random", "type": "STORAGE", "weight": 5},
+    {"level": [0,1,2], "frequency": "random", "type": "DARKHALL", "weight": 5},
+    {"level": [0,1,2], "frequency": "random", "type": "FIRE", "weight": 5},
+    {"level": [0,1,2], "frequency": "random", "type": "MESS", "weight": 5},
+    {"level": [0,1,2], "frequency": "random", "type": "LAB", "weight": 5},
+    {"level": [1,2,4], "frequency": "random", "type": "PLATFORMS", "weight": 3},
+    {"level": [2,3], "frequency": "random", "type": "LIBRARY", "weight": 5}
+  ]
+}

@@ -1,6 +1,9 @@
 {
   "name": "spawners:guardian",
   "spawners": [
-    {"level": [0, 1, 2, 3, 4], "potentials": [{"name": "minecraft:guardian"}]}
+    {"level": [0, 1, 2, 3, 4], "potentials": [
+      {"weight": 8, "name": "minecraft:guardian"},
+      {"weight": 1, "name": "minecraft:elder_guardian"}
+    ]}
   ]
 }

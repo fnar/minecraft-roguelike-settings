@@ -1,0 +1,10 @@
+{
+  "name": "lycanites:loot_lush",
+  "lootTables": [
+    {"level": 0, "table": "minecraft:chests/simple_dungeon"},
+    {"level": 1, "table": "minecraft:chests/village_blacksmith"},
+    {"level": 2, "table": "minecraft:chests/nether_bridge"},
+    {"level": 3, "table": "minecraft:chests/abandoned_mineshaft"},
+    {"level": 4, "table": "minecraft:chests/stronghold_corridor"}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "spawners:end",
+  "spawners": [
+    {"level": [0,1,2,3,4], "potentials": [{"name": "minecraft:enderman"}]},
+    {"level": [0,1,2,3,4], "potentials": [{"name": "minecraft:shulker"}]}
+  ]
+}

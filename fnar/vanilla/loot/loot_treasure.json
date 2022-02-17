@@ -18,11 +18,11 @@
         {"data": {"type": "specialty", "level": 3}, "weight": 8},
         {"data": {"type": "specialty", "level": 4}, "weight": 4},
 
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 4, \"id\": \"protection\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 5, \"id\": \"sharpness\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"looting\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"silk_touch\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"fortune\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 4, id: protection}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 5, id: sharpness}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: looting}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: silk_touch}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: fortune}]}"}, "weight": 1},
 
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"American Gothic\",Lore:[\"But what does it /mean/?.\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"The Last Supper\",Lore:[\"Allegedly.\"]}}"}, "weight": 1},
@@ -36,7 +36,7 @@
         {"data": {"name": "minecraft:painting", "nbt": "{display:{Name:\"Piglet\",Lore:[\"It looks like a child painted this. How is this art?\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"XXX\",Lore:[\"You probably weren't meant to find this.\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:book", "nbt": "{display:{Name:\"Streaming for beginners\",Lore:[\"A practical guide to getting famous on Twitch\"]}}"}, "weight": 1},
-        {"data": {"name": "minecraft:nether_star"}, "weight": 2},
+        {"data": {"name": "minecraft:nether_star"}, "weight": 1},
         {"data": {"name": "minecraft:elytra"}, "weight": 8}
       ],
       "each": true,

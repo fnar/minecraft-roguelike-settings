@@ -1,0 +1,24 @@
+{
+  "name": "rooms:hostile",
+  "rooms": [
+    {"level": [0,2], "frequency": "single", "type": "PRISON", "count": 1},
+    {"level": [1], "frequency": "single", "type": "PIT", "count": 1},
+    {"level": [1], "frequency": "single", "type": "SPIDER", "count": 1},
+    {"level": [2], "frequency": "single", "type": "CREEPER", "count": 1, "spawnerId": "spawners:creeper"},
+    {"level": [3], "frequency": "single", "type": "BLAZE", "count": 1, "spawnerId": "spawners:guardian"},
+    {"level": [3], "frequency": "single", "type": "ENDER", "count": 1, "spawnerId": "spawners:end"},
+    {"level": [4], "frequency": "single", "type": "BLAZE", "count": 1, "spawnerId": "spawners:nether"},
+    {"level": [4], "frequency": "single", "type": "NETHERFORT", "count": 1},
+    {"level": [4], "frequency": "single", "type": "OBSIDIAN", "count": 1},
+
+    {"level": [2], "frequency": "secret", "type": "CRYPT", "count": 1},
+
+    {"level": [0,1,2,3], "frequency": "random", "type": "BRICK", "weight": 15},
+    {"level": [0,1,2,3,4], "frequency": "random", "type": "NETHERFORT", "weight": 5},
+    {"level": [0,1,2,3,4], "frequency": "random", "type": "NETHER", "weight": 5},
+    {"level": [1,2,3], "frequency": "random", "type": "PRISON", "weight": 5},
+    {"level": [2,3,4], "frequency": "random", "type": "OBSIDIAN", "weight": 5},
+    {"level": [4], "frequency": "random", "type": "BLAZE", "weight": 5, "spawnerId": "spawners:nether"},
+    {"level": [4], "frequency": "random", "type": "NETHER_PORTAL", "weight": 1, "spawnerId": "spawners:nether"}
+  ]
+}

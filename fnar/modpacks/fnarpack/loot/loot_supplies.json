@@ -1,0 +1,24 @@
+{
+  "name": "fnarpack:loot_supplies",
+  "lootRules": [
+    {
+      "level": [0, 1, 2, 3, 4],
+      "each": true,
+      "type": "SUPPLIES",
+      "quantity": 6,
+      "loot": [
+        {"data": {"name": "simpledifficulty:purified_water_bottle", "meta": 0}},
+        {"data": {"name": "simpledifficulty:juice", "meta": 0}},
+        {"data": {"name": "locks:iron_lock_pick", "min": 1, "max": 4}},
+        {"data": {"name": "dungeontactics:climbing_rope", "min": 4, "max": 16}},
+        {"data": {"name": "realistictorches:matchbox"}},
+        {"data": {"name": "realistictorches:torch_unlit", "min": 4, "max": 16}},
+        {"data": {"name": "roughtweaks:salve"}},
+        {"data": {"name": "roughtweaks:plaster"}},
+        {"data": {"name": "roughtweaks:bandage"}},
+        {"data": {"name": "simpledifficulty:charcoal_filter"}},
+        {"data": {"name": "waystones:return_scroll"}}
+      ]
+    }
+  ]
+}

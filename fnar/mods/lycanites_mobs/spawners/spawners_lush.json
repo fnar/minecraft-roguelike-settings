@@ -1,0 +1,47 @@
+{
+  "name": "lycanites:spawners_lush",
+  "spawners": [
+    {"weight": 1, "level": [0,1,2,3,4], "potentials": [{"name": "minecraft:creeper"}]},
+
+    {
+      "weight": 14,
+      "level":[0,1,2,3,4],
+      "potentials":[{"name": "lycanitesmobs:ghoul"}]
+    },
+    {
+      "weight": 14,
+      "level": [0,1,2,3,4],
+      "potentials": [{"name": "lycanitesmobs:tarantula"}]
+    },
+    {
+      "weight": 14,
+      "level": [1,2,3,4],
+      "potentials": [{"name": "lycanitesmobs:geken"}]
+    },
+    {
+      "weight": 6,
+      "level": [1,2,3,4],
+      "potentials": [{"name": "lycanitesmobs:lurker"}]
+    },
+    {
+      "weight": 8,
+      "level": [2,3,4],
+      "potentials": [{"name": "lycanitesmobs:spriggan"}]
+    },
+    {
+      "weight": 4,
+      "level": [2,3,4],
+      "potentials": [{"name": "lycanitesmobs:sylph"}]
+    },
+    {
+      "weight": 4,
+      "level": [3,4],
+      "potentials": [{"name": "lycanitesmobs:aglebemu"}]
+    },
+    {
+      "weight": 4,
+      "level": [4],
+      "potentials": [{"name": "lycanitesmobs:eyewig"}]
+    }
+  ]
+}
