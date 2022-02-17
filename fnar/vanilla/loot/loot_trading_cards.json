@@ -42,7 +42,7 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§6Eclipse\",\"§8Heavens\",\"§7In its most incredible form this extremely rare event only occurs once every 100 years and is when the sun is blocked out by the moon or earth.\",\"§6Legendary\",\"#27\"]}}"}, "weight": 1},
 
                // I'm not sure if the quotation marks in these descriptions will work or not, still working on a good way to test this stuff out
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Spring\",\"§8Season\",\"§7\"4 seasons all blend together\",\"§aUncommon\",\"#28\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Spring\",\"§8Season\",\"§7 4 seasons all blend together\",\"§aUncommon\",\"#28\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Summer\",\"§8Season\",\"§7the end of the year\",\"§aUncommon\",\"#29\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Autumn\",\"§8Season\",\"§7is almost here\",\"§aUncommon\",\"#30\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Winter\",\"§8Season\",\"§7and it's time to start over again\"\",\"§aUncommon\",\"#31\"]}}"}, "weight": 7},

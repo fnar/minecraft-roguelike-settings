@@ -5,7 +5,7 @@
   "name": "base:dungeon_base",
   "exclusive": false,
   "inherit": [
-    "layout:dense_small",
+    "layout:dense_medium",
     "rooms:generic",
     "segments:generic"
   ]

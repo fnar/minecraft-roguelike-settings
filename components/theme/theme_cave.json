@@ -19,11 +19,13 @@
         "floor" : {
           "type" : "WEIGHTED",
           "data" : [
-            {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight": 50},
             {"type" : "METABLOCK", "data" : {"name" : "dirt"}, "weight": 25},
+            {"type" : "METABLOCK", "data" : {"name" : "dirt", "meta":  3}, "weight": 25},
+            {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight": 10},
+            {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight": 5},
             {"type" : "METABLOCK", "data" : {"name" : "stone"}, "weight": 5},
-            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight": 1},
-            {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight": 1}
+            {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight": 5},
+            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight": 1}
           ]
         },
         "pillar" : {"type" : "METABLOCK", "data" : {"name" : "planks", "meta" : 0}},
@@ -34,11 +36,13 @@
         "floor" : {
           "type" : "WEIGHTED",
           "data" : [
-            {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight": 50},
             {"type" : "METABLOCK", "data" : {"name" : "dirt"}, "weight": 25},
+            {"type" : "METABLOCK", "data" : {"name" : "dirt", "meta": 3}, "weight": 25},
+            {"type" : "METABLOCK", "data" : {"name" : "gravel"}, "weight": 10},
+            {"type" : "METABLOCK", "data" : {"name" : "grass_path"}, "weight": 5},
             {"type" : "METABLOCK", "data" : {"name" : "stone"}, "weight": 5},
-            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight": 1},
-            {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight": 1}
+            {"type" : "METABLOCK", "data" : {"name" : "grass"}, "weight": 5},
+            {"type" : "METABLOCK", "data" : {"name" : "cobblestone"}, "weight": 1}
           ]
         },
         "pillar" : {"type" : "METABLOCK", "data" : {"name" : "planks", "meta": 0}},

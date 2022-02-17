@@ -1,13 +1,58 @@
 {
   "name": "spawners:undead",
   "spawners" : [
-    {"level": [0,1,2,3,4], "potentials": [{"name": "minecraft:zombie", "equip": true}]},
-    {"level": [0,1,2,3,4], "potentials": [{"name": "minecraft:skeleton", "equip": true}]},
-    {"level": [0,1,2,3,4], "potentials": [{"name": "minecraft:wither_skeleton", "equip": true}]},
-    {"level": [0,1,2,3,4], "potentials": [
-      {"name": "minecraft:skeleton", "equip": true},
-      {"name": "minecraft:wither_skeleton", "equip": true},
-      {"name": "minecraft:zombie", "equip": true}
-    ]}
+    {
+      "level": [0],
+      "weight": 1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:zombie"}
+      ]
+    },
+    {
+      "level": [0],
+      "weight": 1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:skeleton"}
+      ]
+    },
+    {
+      "level": [0],
+      "weight": 1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:zombie"},
+        {"weight": 1, "name": "minecraft:skeleton"}
+      ]
+    },
+
+    {
+      "level": [0,1,2,3,4],
+      "weight": 1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:zombie", "equip": true}
+      ]
+    },
+    {
+      "level": [0,1,2,3,4],
+      "weight":  1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:skeleton", "equip": true}
+      ]
+    },
+    {
+      "level": [0,1,2,3,4],
+      "weight":  1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:wither_skeleton", "equip": true}
+      ]
+    },
+    {
+      "level": [0,1,2,3,4],
+      "weight":  1,
+      "potentials": [
+        {"weight": 1, "name": "minecraft:skeleton", "equip": true},
+        {"weight": 1, "name": "minecraft:wither_skeleton", "equip": true},
+        {"weight": 1, "name": "minecraft:zombie", "equip": true}
+      ]
+    }
   ]
 }

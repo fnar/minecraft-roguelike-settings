@@ -1,0 +1,82 @@
+{
+  "name": "fnarpack:loot_armour",
+  "requires": [
+    "cyclicmagic",
+    "dungeontactics",
+    "spartanshields"
+  ],
+  "lootRules": [
+    {
+      "level": [0,1,2,3,4],
+      "type": "ARMOUR",
+      "each": true,
+      "quantity": 1,
+      "loot": [
+        {"data": {"name": "minecraft:stick"}, "weight": 160},
+
+        {"data": {"name": "dungeontactics:wooden_shield", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:stone_plate_faceplate", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:stone_plate_chestpiece", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:stone_plate_greaves", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:stone_plate_boots", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:stone_shield", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:bone_helmet", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:bone_chestplate", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:bone_leggings", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:bone_boots", "ench": 15}, "weight": 32},
+        {"data": {"name": "dungeontactics:bone_shield", "ench": 15}, "weight": 32},
+
+        {"data": {"name": "dungeontactics:golden_plate_faceplate", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:golden_plate_chestpiece", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:golden_plate_greaves", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:golden_plate_boots", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:golden_shield", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_helmet", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_chestplate", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_leggings", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_boots", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_plate_faceplate", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_plate_chestpiece", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_plate_greaves", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_plate_boots", "ench": 15}, "weight": 16},
+        {"data": {"name": "dungeontactics:silver_shield", "ench": 15}, "weight": 16},
+        {"data": {"name": "spartanshields:shield_basic_bronze", "ench": 15}, "weight": 16},
+        {"data": {"name": "spartanshields:shield_tower_bronze", "ench": 15}, "weight": 16},
+
+        {"data": {"name": "dungeontactics:iron_plate_faceplate", "ench": 15}, "weight": 8},
+        {"data": {"name": "dungeontactics:iron_plate_chestpiece", "ench": 15}, "weight": 8},
+        {"data": {"name": "dungeontactics:iron_plate_greaves", "ench": 15}, "weight": 8},
+        {"data": {"name": "dungeontactics:iron_plate_boots", "ench": 15}, "weight": 8},
+        {"data": {"name": "dungeontactics:iron_shield", "ench": 15}, "weight": 8},
+
+        {"data": {"name": "dungeontactics:steel_helmet", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_chestplate", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_leggings", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_boots", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_plate_faceplate", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_plate_chestpiece", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_plate_greaves", "ench": 15}, "weight": 4},
+        {"data": {"name": "dungeontactics:steel_plate_boots", "ench": 15}, "weight": 4},
+
+        {"data": {"name": "dungeontactics:diamond_plate_faceplate", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:diamond_plate_chestpiece", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:diamond_plate_greaves", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:diamond_plate_boots", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:diamond_shield", "ench": 15}, "weight": 2},
+        {"data": {"name": "cyclicmagic:emerald_helmet", "ench": 15}, "weight": 2},
+        {"data": {"name": "cyclicmagic:emerald_chestplate", "ench": 15}, "weight": 2},
+        {"data": {"name": "cyclicmagic:emerald_leggings", "ench": 15}, "weight": 2},
+        {"data": {"name": "cyclicmagic:emerald_boots", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_helmet", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_chestplate", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_leggings", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_boots", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_plate_faceplate", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_plate_chestpiece", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_plate_greaves", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_plate_boots", "ench": 15}, "weight": 2},
+        {"data": {"name": "dungeontactics:mithril_shield", "ench": 15}, "weight": 2}
+      ]
+    }
+  ]
+}

@@ -1,10 +1,16 @@
 {
   "name": "spawners:nether",
   "spawners": [
-    {"potentials": [{"name": "minecraft:blaze"}], "level": [0, 1, 2, 3, 4]},
-    {"potentials": [{"name": "minecraft:zombie_pigman"}], "level": [0, 1, 2, 3, 4]},
-    {"potentials": [{"name": "minecraft:magma_cube"}], "level": [2, 3, 4]},
-    {"potentials": [{"name": "minecraft:wither_skeleton"}], "level": [1, 2, 3, 4]},
-    {"potentials": [{"name": "minecraft:wither_skeleton"}], "level": [1, 2, 3, 4]}
+    {"weight": 5, "level": [0, 1, 2, 3, 4], "potentials": [{"name": "minecraft:zombie_pigman"}]},
+    {"weight": 1, "level": [0, 1, 2, 3, 4], "potentials": [{"name": "minecraft:blaze"}]},
+    {"weight": 3, "level": [1, 2, 3, 4], "potentials": [{"name": "minecraft:wither_skeleton"}]},
+    {"weight": 1, "level": [2, 3, 4], "potentials": [{"name": "minecraft:magma_cube"}]},
+
+    {"weight": 2, "level": [2, 3, 4], "potentials": [
+      {"weight": 5, "name": "minecraft:zombie_pigman"},
+      {"weight": 1, "name": "minecraft:blaze"},
+      {"weight": 3, "name": "minecraft:wither_skeleton", "equip": true},
+      {"weight": 1, "name": "minecraft:magma_cube"}
+    ]}
   ]
 }

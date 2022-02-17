@@ -21,17 +21,17 @@
     "randomthings",
     "realistictorches",
     "roughtweaks",
-    "toughasnails",
     "qualitytools",
+    "scalinghealth",
+    "simpledifficulty",
+    "solcarrot",
     "spartanweaponry",
     "switchbow",
-    "scalinghealth",
-    "xreliquary",
-    "solcarrot",
-    "wearablebackpacks",
     "toolbelt",
+    "wearablebackpacks",
     "xat",
-    "xpbook"
+    "xpbook",
+    "xreliquary"
   ],
   "inherit": [
     "fnarpack:loot"

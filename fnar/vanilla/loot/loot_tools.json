@@ -33,8 +33,7 @@
         {"data": {"name": "minecraft:lead"}},
         {"data": {"name": "minecraft:saddle"}},
         {"data": {"name": "minecraft:shears"}},
-        {"data": {"name": "minecraft:stone_hoe"}},
-        {"data": {"name": "minecraft:wooden_hoe"}}
+        {"data": {"name": "minecraft:iron_hoe"}}
       ]
     },
     {

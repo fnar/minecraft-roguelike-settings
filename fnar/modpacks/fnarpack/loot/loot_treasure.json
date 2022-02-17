@@ -25,17 +25,25 @@
       "level": [1, 2, 3, 4],
       "each": false,
       "quantity": 2,
+      "type": "REWARD",
       "loot": [
         {"data": {"name": "akashictome:tome"}, "weight": 8},
 
         {"data": {"name": "antiqueatlas:empty_antique_atlas"}, "weight": 8},
 
-        {"data": {"name": "bountifulbaubles:flaregun"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:trinketluckyhorseshoe"}, "weight": 4},
         {"data": {"name": "bountifulbaubles:magicmirror"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:wormholemirror"}, "weight": 4},
-        {"data": {"name": "bountifulbaubles:flare_red"}, "weight": 4},
         {"data": {"name": "bountifulbaubles:phantomprism"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketapple"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketballoon"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketbezoar"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketblackdragonscale"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketbrokenheart"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketluckyhorseshoe"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketmagiclenses"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketobsidianskull"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketshulkerheart"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:trinketvitamins"}, "weight": 4},
+        {"data": {"name": "bountifulbaubles:wormholemirror"}, "weight": 4},
 
         {"data": {"name": "cookingforblockheads:cow_jar"}, "weight": 8},
 
@@ -86,6 +94,8 @@
 
         {"data": {"name": "toolbelt:pouch"}, "weight": 16},
         {"data": {"name": "toolbelt:belt"}, "weight": 4},
+
+        {"data": {"name": "waystones:warpstone"}, "weight": 1},
 
         {"data": {"name": "wearablebackpacks:backpack"}, "weight": 8},
 
