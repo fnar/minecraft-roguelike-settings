@@ -45,7 +45,7 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Spring\",\"§8Season\",\"§7 4 seasons all blend together\",\"§aUncommon\",\"#28\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Summer\",\"§8Season\",\"§7the end of the year\",\"§aUncommon\",\"#29\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Autumn\",\"§8Season\",\"§7is almost here\",\"§aUncommon\",\"#30\"]}}"}, "weight": 7},
-        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Winter\",\"§8Season\",\"§7and it's time to start over again\"\",\"§aUncommon\",\"#31\"]}}"}, "weight": 7},
+        {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Winter\",\"§8Season\",\"§7 and it's time to start over again\",\"§aUncommon\",\"#31\"]}}"}, "weight": 7},
 
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aBat\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#32\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Chicken\",\"§8Passive Mob\",\"§7\",\"§7Common\",\"#33\"]}}"}, "weight": 9},
@@ -58,17 +58,17 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aTurtle\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#40\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Fox\",\"§8Passive Mob\",\"§7\",\"§3Rare\",\"#41\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aVillager\",\"§8Passive Mob\",\"§7\",\"§aUncommon\",\"#57\"]}}"}, "weight": 7},
-        
+
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Wolf\",\"§8Tameable Mob\",\"§7\",\"§5Epic\",\"#42\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Ocelot\",\"§8Tameable Mob\",\"§7\",\"§3Rare\",\"#43\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Parrot\",\"§8Tameable Mob\",\"§7\",\"§3Rare\",\"#44\"]}}"}, "weight": 5},
-        
+
               // Might seperate all the types of pandas into their own type
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Panda\",\"§8Neutral Mob\",\"§7\",\"§3Rare\",\"#45\"]}}"}, "weight": 5},
-        
+
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aZombified Piglin\",\"§8Nuetral Mob\",\"§7\",\"§aUncommon\",\"#51\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Enderman\",\"§8Neutral Mob\",\"§7\",\"§3Rare\",\"#55\"]}}"}, "weight": 5},
-        
+
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Zoglin\",\"§8Hostile Mob\",\"§7\",\"§aUncommon\",\"#46\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Zombie\",\"§8Hostile Mob\",\"§7\",\"§7Common\",\"#46\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Skeleton\",\"§8Hostile Mob\",\"§7\",\"§7Common\",\"#47\"]}}"}, "weight": 9},
@@ -87,7 +87,7 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Wither\",\"§8Boss Mob\",\"§7\",\"§5Epic\",\"#62\"]}}"}, "weight": 3},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§6Enderdragon\",\"§8Boss Mob\",\"§7\",\"§6Legendary\",\"#63\"]}}"}, "weight": 1},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§5Elder Gaurdian\",\"§8Boss Mob\",\"§7\",\"§5Epic\",\"#64\"]}}"}, "weight": 3},
-        
+
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Armorsmith\",\"§8Profession\",\"§7\",\"§7Common\",\"#65\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Butcher\",\"§8Profession\",\"§7\",\"§7Common\",\"#66\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aCartographer\",\"§8Profession\",\"§7\",\"§aUncommon\",\"#67\"]}}"}, "weight": 7},
@@ -107,7 +107,7 @@
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Elf\",\"§8Humanoid\",\"§7Elves live for an incredibly long time and are set apart from other humanoid creatures by their long, pointy ears. They are generally very proficient with bows and straight swords.\",\"§aUncommon\",\"#80\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§aFairy\",\"§8Humanoid\",\"§7Fairies are relatively small and have small wings, similar to butterflies. They are generally magical and very powerful.\",\"§aUncommon\",\"#81\"]}}"}, "weight": 7},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§3Gnome\",\"§8Humanoid\",\"§7Gnomes are visually similar to dwarves but the difference is that gnomes prefer to stay hidden underground, avoiding human interaction\",\"§aUncommon\",\"#82\"]}}"}, "weight": 7},
-        
+
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Orc\",\"§8Beast\",\"§7\",\"§7Common\",\"#83\"]}}"}, "weight": 9},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Goblin\",\"§8Beast\",\"§7These small green theives live in tribes of 4-9 individual goblins near\", \"§7civilized areas which they raid for resources.\",\"§7Common\",\"#84\"]}}"}, "weight": 5},
         {"data": {"name": "minecraft:Paper", "nbt": "{display:{Name:\"Trading Card\",Lore:[\"§7Kobold\",\"§8Beast\",\"§7Kobolds are small dragon-like creatures have scales and horns but lack the majestic\",\"§7wings of their larger counterparts.\",\"§aUncommon\",\"#85\"]}}"}, "weight": 5},

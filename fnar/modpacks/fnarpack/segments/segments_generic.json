@@ -1,0 +1,32 @@
+{
+  "name": "fnarpack:segments_generic",
+
+  "segments": [
+    {"level": [0,1,2,3,4], "type": "WALL", "weight": 20},
+    {"level": [0,1,2,3,4], "type": "INSET", "weight": 10},
+
+    {"level": [0,1,2,3,4], "type": "DOOR", "weight": 20},
+    {"level": [0,1,2,3,4], "type": "SPAWNER", "weight": 10},
+
+    {"level": [0,1,2,3,4], "type": "ARROW", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "ANKH", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "BOOKS", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "CAVE", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "CELL", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "CHEST", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "FIREPLACE", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "FLOWERS", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "JUNGLE", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "LAMP", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "MINESHAFT", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "MUSHROOM", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "PLANT", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "SHELF", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "SEWER", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "SEWERARCH", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "SEWERDOOR", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "SEWERDRAIN", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "TOMB", "weight": 1},
+    {"level": [0,1,2,3,4], "type": "SKULL", "weight": 1}
+  ]
+}

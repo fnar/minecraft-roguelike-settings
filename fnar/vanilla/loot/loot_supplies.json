@@ -7,7 +7,21 @@
       "each": true,
       "quantity": 1,
       "loot": [
-        {"data": {"name": "minecraft:arrow", "min": 16, "max": 64}}
+        {"data": {"name": "minecraft:torch", "min": 16, "max": 16}},
+        {"data": {"name": "minecraft:torch", "min": 32, "max": 32}},
+        {"data": {"name": "minecraft:torch", "min": 64, "max": 64}}
+      ]
+    },
+
+    {
+      "level": [0, 1, 2, 3, 4],
+      "type": "SUPPLIES",
+      "each": true,
+      "quantity": 1,
+      "loot": [
+        {"data": {"name": "minecraft:arrow", "min": 16, "max": 16}},
+        {"data": {"name": "minecraft:arrow", "min": 32, "max": 32}},
+        {"data": {"name": "minecraft:arrow", "min": 64, "max": 64}}
       ]
     },
     {
@@ -16,25 +30,22 @@
       "each": true,
       "quantity": 1,
       "loot": [
-        {"data": {"name": "minecraft:torch", "min": 16, "max": 64}}
+        {"data": {"name": "minecraft:cobblestone", "min": 16, "max": 16}},
+        {"data": {"name": "minecraft:cobblestone", "min": 32, "max": 32}},
+        {"data": {"name": "minecraft:cobblestone", "min": 64, "max": 64}},
+        {"data": {"name": "minecraft:log", "min": 8, "max": 8}},
+        {"data": {"name": "minecraft:log", "min": 16, "max": 16}},
+        {"data": {"name": "minecraft:log", "min": 32, "max": 32}},
+        {"data": {"name": "minecraft:planks", "min": 16, "max": 16}},
+        {"data": {"name": "minecraft:planks", "min": 32, "max": 32}},
+        {"data": {"name": "minecraft:planks", "min": 64, "max": 64}}
       ]
     },
     {
       "level": [0, 1, 2, 3, 4],
       "type": "SUPPLIES",
       "each": true,
-      "quantity": 1,
-      "loot": [
-        {"data": {"name": "minecraft:cobblestone", "min": 16, "max": 64}},
-        {"data": {"name": "minecraft:log", "min": 8, "max": 16}},
-        {"data": {"name": "minecraft:planks", "min": 16, "max": 64}}
-      ]
-    },
-    {
-      "level": [0, 1, 2, 3, 4],
-      "type": "SUPPLIES",
-      "each": true,
-      "quantity": 4,
+      "quantity": 8,
       "loot": [
         {"data": {"name": "minecraft:coal", "min": 16, "max": 64}},
         {"data": {"name": "minecraft:flint", "min": 8, "max": 16}},

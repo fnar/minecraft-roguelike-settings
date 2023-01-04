@@ -5,7 +5,7 @@
       "level": [0, 1, 2, 3, 4],
       "type": "BLOCKS",
       "each": true,
-      "quantity": 4,
+      "quantity": 8,
       "loot": [
         {"data": {"name": "minecraft:dirt", "meta": 0, "min": 16, "max": 32}},
         {"data": {"name": "minecraft:stone", "meta": 0, "min": 16, "max": 32}},

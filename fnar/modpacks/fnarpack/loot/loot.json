@@ -37,6 +37,8 @@
     "xreliquary"
   ],
   "inherit": [
+    "fnar:loot",
+
     "fnarpack:loot_all",
     "fnarpack:loot_armour",
     "fnarpack:loot_food",
@@ -46,9 +48,9 @@
     "fnarpack:loot_treasure",
     "fnarpack:loot_weapons",
 
-    "artisanworktables:loot",
+//    "artisanworktables:loot",
     "ebwizardry:loot_v4.3.4",
-    "notreepunching:loot",
+//    "notreepunching:loot",
     "spartanweaponry:loot",
     "wolfarmor:loot"
   ]

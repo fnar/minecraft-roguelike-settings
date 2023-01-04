@@ -2,8 +2,10 @@
   "name": "fnar:loot_treasure",
   "lootRules": [
     {
-      "level": [1, 2, 3, 4],
       "type": "REWARD",
+      "level": [1, 2, 3, 4],
+      "each": true,
+      "quantity": 1,
       "loot": [
         {"data": {"type": "enchanted_book", "ench": 5}, "weight": 32},
         {"data": {"type": "enchanted_book", "ench": 10}, "weight": 24},
@@ -23,12 +25,11 @@
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: looting}]}"}, "weight": 1},
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: silk_touch}]}"}, "weight": 1},
         {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: fortune}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: mending}]}"}, "weight": 1},
 
         {"data": {"name": "minecraft:nether_star"}, "weight": 1},
         {"data": {"name": "minecraft:elytra"}, "weight": 8}
-      ],
-      "each": true,
-      "quantity": 1
+      ]
     }
   ]
 }
