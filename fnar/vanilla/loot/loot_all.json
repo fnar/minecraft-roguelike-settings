@@ -3,6 +3,8 @@
   "lootRules": [
     {
       "level": [0, 1, 2, 3, 4],
+      "each": true,
+      "quantity": 4,
       "loot": [
         {"data": {"name": "minecraft:brown_mushroom"}, "weight": 10},
         {"data": {"name": "minecraft:bone"}, "weight": 10},
@@ -45,9 +47,7 @@
         {"data": {"name": "minecraft:rabbit_foot"}, "weight": 2},
         {"data": {"name": "minecraft:skull", "meta": 0}, "weight": 2},
         {"data": {"name": "minecraft:waterlily"}, "weight": 2}
-      ],
-      "each": true,
-      "quantity": 4
+      ]
     },
     {
       "level": [0, 1, 2, 3, 4],
@@ -64,7 +64,7 @@
     {
       "level": [0,1,2,3,4],
       "each": false,
-      "quantity": 1,
+      "quantity": 3,
       "loot": [
         {"data": {"type": "enchanted_book", "ench": 5}, "weight": 16},
         {"data": {"type": "enchanted_book", "ench": 10}, "weight": 8},
@@ -76,7 +76,7 @@
     {
       "level": [0,1,2,3,4],
       "each": false,
-      "quantity": 1,
+      "quantity": 3,
       "loot": [
         {"data": {"type": "specialty", "level": 0}, "weight": 16},
         {"data": {"type": "specialty", "level": 1}, "weight": 8},

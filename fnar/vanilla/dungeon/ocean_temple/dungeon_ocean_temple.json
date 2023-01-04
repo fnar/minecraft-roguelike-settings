@@ -10,8 +10,9 @@
     "spawners:undead"
   ],
   "rooms": [
+    {"level": [0, 1, 2, 3, 4], "frequency": "single", "type": "REWARD"},
     {"level": [0], "frequency": "single", "type": "PIT"},
-    {"level": [2, 3], "frequency": "single", "type": "BRICK", "spawnerId":"spawners:guardian"},
+    {"level": [2, 3], "frequency": "single", "type": "BLAZE", "spawnerId":"spawners:guardian"},
     {"level": [4], "frequency": "single", "type": "OBSIDIAN"},
     {"level": [0, 1, 2, 3, 4], "frequency": "single", "type": "REWARD"},
 

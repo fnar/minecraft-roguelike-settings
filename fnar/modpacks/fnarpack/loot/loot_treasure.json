@@ -23,8 +23,8 @@
   "lootRules": [
     {
       "level": [1, 2, 3, 4],
-      "each": false,
-      "quantity": 2,
+      "each": true,
+      "quantity": 1,
       "type": "REWARD",
       "loot": [
         {"data": {"name": "akashictome:tome"}, "weight": 8},
@@ -84,11 +84,8 @@
         {"data": {"name": "qualitytools:emerald_ring"}, "weight": 32},
         {"data": {"name": "qualitytools:emerald_amulet"}, "weight": 32},
 
-        {"data": {"name": "randomthings:escaperope"}, "weight": 32},
-
-        {"data": {"name": "scalinghealth:heartdust"}, "weight": 32},
-        {"data": {"name": "scalinghealth:crystalshard"}, "weight": 16},
-        {"data": {"name": "scalinghealth:heartcontainer"}, "weight": 2},
+        {"data": {"name": "scalinghealth:heartdust"}, "weight": 8},
+        {"data": {"name": "scalinghealth:crystalshard"}, "weight": 4},
 
         {"data": {"name": "solcarrot:food_book"}, "weight": 8},
 

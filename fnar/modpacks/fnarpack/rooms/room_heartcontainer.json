@@ -1,0 +1,19 @@
+{
+  "name": "fnarpack:room_heartcontainer",
+  "requires": [
+    "scalinghealth"
+  ],
+  "lootRules": [
+    {
+      "type": "heartcontainer",
+      "level": [4],
+      "each": false,
+      "quantity": 1,
+      "loot": [{"weight": 1, "data": {"name": "scalinghealth:heartcontainer"}}
+      ]
+    }
+  ],
+  "rooms": [
+    {"level": [4], "frequency": "single", "type": "REWARD", "count": 1, "chestType": "heartcontainer"}
+  ]
+}
