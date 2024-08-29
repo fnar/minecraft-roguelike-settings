@@ -2,10 +2,8 @@
   "name": "fnar:loot_treasure",
   "lootRules": [
     {
-      "type": "REWARD",
       "level": [1, 2, 3, 4],
-      "each": true,
-      "quantity": 1,
+      "type": "REWARD",
       "loot": [
         {"data": {"type": "enchanted_book", "ench": 5}, "weight": 32},
         {"data": {"type": "enchanted_book", "ench": 10}, "weight": 24},
@@ -20,16 +18,18 @@
         {"data": {"type": "specialty", "level": 3}, "weight": 8},
         {"data": {"type": "specialty", "level": 4}, "weight": 4},
 
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 4, id: protection}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 5, id: sharpness}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: looting}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: silk_touch}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: fortune}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: mending}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 4, \"id\": \"protection\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 5, \"id\": \"sharpness\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"looting\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"silk_touch\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"fortune\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"mending\"}]}"}, "weight": 1},
 
         {"data": {"name": "minecraft:nether_star"}, "weight": 1},
         {"data": {"name": "minecraft:elytra"}, "weight": 8}
-      ]
+      ],
+      "each": true,
+      "quantity": 1
     }
   ]
 }
