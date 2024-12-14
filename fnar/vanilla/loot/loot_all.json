@@ -54,10 +54,10 @@
       "each": false,
       "quantity": 2,
       "loot": [
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"unbreaking\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"sharpness\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"protection\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"efficiency\"}]}"}, "weight": 1}
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: 34}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: 16}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: 0}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: 32}]}"}, "weight": 1}
       ]
     },
 

@@ -18,12 +18,12 @@
         {"data": {"type": "specialty", "level": 3}, "weight": 8},
         {"data": {"type": "specialty", "level": 4}, "weight": 4},
 
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 4, \"id\": \"protection\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 5, \"id\": \"sharpness\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"looting\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"silk_touch\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 3, \"id\": \"fortune\"}]}"}, "weight": 1},
-        {"data": {"name": "minecraft:enchanted_book", "nbt": "{\"StoredEnchantments\": [{\"lvl\": 1, \"id\": \"mending\"}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 4, id: 0}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 5, id: 16}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: 21}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: 33}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 3, id: 35}]}"}, "weight": 1},
+        {"data": {"name": "minecraft:enchanted_book", "nbt": "{StoredEnchantments: [{lvl: 1, id: 70}]}"}, "weight": 1},
 
         {"data": {"name": "minecraft:nether_star"}, "weight": 1},
         {"data": {"name": "minecraft:elytra"}, "weight": 8}
